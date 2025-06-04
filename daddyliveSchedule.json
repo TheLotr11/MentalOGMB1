@@ -1773,20 +1773,6 @@
         "Baseball</span>": [
             {
                 "time": "00:00",
-                "event": "NCAA Women's College World Series Final: TBD vs. TBD - Game #1",
-                "channels": [
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
                 "event": "7Innings Live Championship Finals New Live",
                 "channels": [
                     {
@@ -1802,6 +1788,14 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
                     }
                 ]
             },
