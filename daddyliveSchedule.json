@@ -1,5 +1,57 @@
 {
     "Wednesday 04th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 USAC Indiana Midget Week at Paragon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 FloRacing Night in America at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Kubota High Limit Racing at Red Cedar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Jackson",
+                "channels": [
+                    {
+                        "channel_name": "EVENT PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
