@@ -1,5 +1,87 @@
 {
     "Thursday 05th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:45",
+                "event": "USAC Indiana Midget Week Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Dirt Late Model Dream at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprint Cars - Attica Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "OVW Live #1347",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Weekly Racing at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Kubota High Limit Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Plymouth",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Fusion Fighting Championship 91 : FFC 91: Piura",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "10:00",
@@ -2180,7 +2262,11 @@
                         "channel_id": "904"
                     },
                     {
-                        "channel_name": "MLB Network (CH-399) beIN Sports 2 France",
+                        "channel_name": "MLB Network",
+                        "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "beIN Sports 2 France",
                         "channel_id": "116"
                     }
                 ]
