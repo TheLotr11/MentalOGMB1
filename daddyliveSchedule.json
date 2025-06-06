@@ -3568,6 +3568,16 @@
         ],
         "Soccer</span>": [
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Cheongju vs Chungnam Asan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Seongnam vs Suwon Bluewings",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Maurice Revello Tournament : Panama U20 vs Saudi Arabia U23",
                 "channels": [
