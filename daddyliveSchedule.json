@@ -581,6 +581,10 @@
                         "channel_id": "918"
                     },
                     {
+                        "channel_name": "DAZN Arabic",
+                        "channel_id": "55"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
                     },
@@ -676,6 +680,10 @@
                     {
                         "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
                         "channel_id": "918"
+                    },
+                    {
+                        "channel_name": "DAZN Arabic",
+                        "channel_id": "55"
                     },
                     {
                         "channel_name": "SuperSport Premier League",
@@ -794,6 +802,10 @@
                     {
                         "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
                         "channel_id": "918"
+                    },
+                    {
+                        "channel_name": "DAZN Arabic",
+                        "channel_id": "55"
                     },
                     {
                         "channel_name": "SuperSport Premier League",
@@ -1544,6 +1556,106 @@
             {
                 "time": "18:00",
                 "event": "Challenger - Sassuolo (ITA) : Sascha Wayenburg vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - Nottingham (MBR) - Double : S.Aoyama/K.Piter vs A.Moratelli/S.Santamaria",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "Challenger - Santa Cruz (BOL) - Qualifiers : Bruno Kuzuhara vs Luis Carlos Alvarez Valdes",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "UTR (M) - Boca Raton (USA) : Daniel Cohen vs Huzaifa A.Rehman",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "Challenger - Santa Cruz (BOL) - Qualifiers : Diego Augusto Barreto Sanchez vs Mateo Barreiros Reyes",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "UTR (M) - Boca Raton (USA) : Maxwell Smith vs Jaden Brady",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "Challenger - Santa Cruz (BOL) - Qualifiers : Santiago De La Fuente vs Johan Alexander Rodriguez",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Calgary (CAN) : Luka Vukovic vs Andre Szilvassy",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Tennis \tITF (M) - Cattolica (ITA) : Manuel Mazza vs Samuel Vincent Ruggeri",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Calgary (CAN) : Riaan Du Toit vs Nedim Suko",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (M) - Boca Raton (USA) : Georgio Samaha vs Yusuf Khamis",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (M) - Boca Raton (USA) : Yujiro Onuma vs Maximillian Mroz Maximillian Mroz",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR (M) - Calgary (CAN) : Christophe Clement vs Nolan Balthazor",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR (M) - Calgary (CAN) : Sid Donarski vs Soham Purohit",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Challenger - Santa Cruz (BOL) : Facundo Bagnis vs Matheus Pucinelli de Almeida",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Challenger - Santa Cruz (BOL) : Franco Roncadelli vs Tomas Farjat",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "UTR (M) - Newport Beach (USA) : Alessandro-Damiano Ventre vs Aleksa Ciric",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "UTR (M) - Newport Beach (USA) : Avery Tallakson vs Winston Lee",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "UTR (M) - Newport Beach (USA) : Lucca Liu vs David Martirosian",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Challenger - Santa Cruz (BOL) : Raul Garcia vs Juan Bautista Torres",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Newport Beach (USA) : John Cross vs Alexander Chang",
                 "channels": []
             }
         ],
