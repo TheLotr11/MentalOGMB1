@@ -1,16 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupChelseavsLosAngelesFC">
-    <display-name>FIFA Club World Cup : Chelsea vs Los Angeles FC</display-name>
+  <channel id="FIFAClubWorldCupFluminensevsBorussiaDortmund">
+    <display-name>FIFA Club World Cup : Fluminense vs Borussia Dortmund</display-name>
   </channel>
-  <programme start="20250616000000 +0200" stop="20250616210000 +0200" channel="FIFAClubWorldCupChelseavsLosAngelesFC">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup : Chelsea vs Los Angeles FC.</desc>
+  <programme start="20250617000000 +0200" stop="20250617180000 +0200" channel="FIFAClubWorldCupFluminensevsBorussiaDortmund">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : Fluminense vs Borussia Dortmund.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250616210000 +0200" stop="20250616230000 +0200" channel="FIFAClubWorldCupChelseavsLosAngelesFC">
+  <programme start="20250617180000 +0200" stop="20250617200000 +0200" channel="FIFAClubWorldCupFluminensevsBorussiaDortmund">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Chelsea vs Los Angeles FC</desc>
+    <desc lang="it">FIFA Club World Cup : Fluminense vs Borussia Dortmund</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAEuroU21SpainU21vsItalyU21">
+    <display-name>UEFA Euro U-21 : Spain U21 vs Italy U21</display-name>
+  </channel>
+  <programme start="20250617000000 +0200" stop="20250617210000 +0200" channel="UEFAEuroU21SpainU21vsItalyU21">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Euro U-21 : Spain U21 vs Italy U21.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250617210000 +0200" stop="20250617230000 +0200" channel="UEFAEuroU21SpainU21vsItalyU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Euro U-21 : Spain U21 vs Italy U21</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="LegaABresciavsVirtusBologna">
+    <display-name>Lega A : Brescia vs Virtus Bologna</display-name>
+  </channel>
+  <programme start="20250617000000 +0200" stop="20250617203000 +0200" channel="LegaABresciavsVirtusBologna">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Lega A : Brescia vs Virtus Bologna.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250617203000 +0200" stop="20250617223000 +0200" channel="LegaABresciavsVirtusBologna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lega A : Brescia vs Virtus Bologna</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="TourofSwitzerlandStage3MenAarauHeiden191km">
+    <display-name>Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)</display-name>
+  </channel>
+  <programme start="20250617000000 +0200" stop="20250617144500 +0200" channel="TourofSwitzerlandStage3MenAarauHeiden191km">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250617144500 +0200" stop="20250617164500 +0200" channel="TourofSwitzerlandStage3MenAarauHeiden191km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
