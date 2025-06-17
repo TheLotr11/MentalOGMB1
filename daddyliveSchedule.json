@@ -1,5 +1,79 @@
 {
     "Tuesday 17th June 2025 - Schedule Time UK GMT": {
+        "Testing Line</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedways",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "551"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Fremonts Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ]
+            }
+        ],
+        "PPV Events</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Fremont Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:10",
+                "event": "USAC Eastern Storm Grandview",
+                "channels": [
+                    {
+                        "channel_name": "EVENT PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "DIRTcar Summer Nationals Davenport",
+                "channels": [
+                    {
+                        "channel_name": "DirtVision",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Ultimate Fighter 33 Episode 4",
+                "channels": [
+                    {
+                        "channel_name": "EVENT PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",

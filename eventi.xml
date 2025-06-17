@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupFluminensevsBorussiaDortmund">
-    <display-name>FIFA Club World Cup : Fluminense vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20250617000000 +0200" stop="20250617180000 +0200" channel="FIFAClubWorldCupFluminensevsBorussiaDortmund">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : Fluminense vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250617180000 +0200" stop="20250617200000 +0200" channel="FIFAClubWorldCupFluminensevsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Fluminense vs Borussia Dortmund</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="UEFAEuroU21SpainU21vsItalyU21">
     <display-name>UEFA Euro U-21 : Spain U21 vs Italy U21</display-name>
   </channel>
