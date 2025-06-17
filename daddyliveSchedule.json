@@ -3329,6 +3329,344 @@
                 ]
             }
         ],
+        "Tennis ATP - LONDON</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : De Minaur A. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Nakashima B. vs Mpetshi Perricard G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Popyrin A. vs Vukic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Brooksby J. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Opelka R. vs Ugo Carabelli C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Rinderknech A. vs Shelton B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - LONDON : Alcaraz C. vs Davidovich Fokina A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - LONDON : Thompson J. vs Munar J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - LONDON : Diallo G. vs Harris B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - LONDON : Moutet C. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - HALLE</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : De Jong J. vs Machac T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Martinez P. vs Etcheverry T. M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Rublev A. vs Ofner S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Cerundolo F. vs Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Fonseca J. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Humbert U. vs Shapovalov D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - HALLE : Auger-Aliassime F. vs Djere L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - HALLE : Sinner J. vs Hanfmann Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - HALLE : Sonego L. vs Struff J-L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BERLIN</span>": [
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Osaka N. vs Samsonova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Wang Xin. vs Kasatkina D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BERLIN : Vondrousova M. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - BERLIN : Shnaider D. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - BERLIN : Anisimova A. vs Andreescu B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - BERLIN : Rybakina E. vs Zheng Q.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - NOTTINGHAM</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - NOTTINGHAM : Jones F. vs Dart H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - NOTTINGHAM : Linette M. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - NOTTINGHAM : Kartal S. vs Jeanjean L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NOTTINGHAM : Siegemund L. vs Sramkova R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NOTTINGHAM : Xu M. vs Volynets K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - NOTTINGHAM : Sun L. vs Boulter K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - NOTTINGHAM : Starodubtseva Y. vs Bucsa C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - NOTTINGHAM : Haddad Maia B. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:30",
@@ -4557,7 +4895,7 @@
             },
             {
                 "time": "23:00",
-                "event": "WNBA : Atlanta Dream vs New York Liberty",
+                "event": "WNBA : Atlanta Dream W vs New York Liberty W",
                 "channels": [
                     {
                         "channel_name": "MY9TV USA",
@@ -4591,7 +4929,7 @@
             },
             {
                 "time": "00:00",
-                "event": "WNBA : Washington Mystics vs Chicago Sky",
+                "event": "WNBA : Washington Mystics W vs Chicago Sky W",
                 "channels": [
                     {
                         "channel_name": "Monumental Sports Network",
