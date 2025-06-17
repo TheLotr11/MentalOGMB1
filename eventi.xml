@@ -39,17 +39,4 @@
     <desc lang="it">Lega A : Brescia vs Virtus Bologna</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="TourofSwitzerlandStage3MenAarauHeiden191km">
-    <display-name>Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)</display-name>
-  </channel>
-  <programme start="20250617000000 +0200" stop="20250617144500 +0200" channel="TourofSwitzerlandStage3MenAarauHeiden191km">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250617144500 +0200" stop="20250617164500 +0200" channel="TourofSwitzerlandStage3MenAarauHeiden191km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
