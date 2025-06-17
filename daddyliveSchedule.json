@@ -370,6 +370,16 @@
                 ]
             },
             {
+                "time": "01:40",
+                "event": "Wizards Beyond Waverly PlaceAbraca-Disaster! Season 1, Episode 17",
+                "channels": [
+                    {
+                        "channel_name": "Disney Channel",
+                        "channel_id": "312"
+                    }
+                ]
+            },
+            {
                 "time": "02:00",
                 "event": "Yes, Chef! Season 1, Episode 8",
                 "channels": [
@@ -2029,7 +2039,7 @@
                     },
                     {
                         "channel_name": "RDS CA",
-                        "channel_id": "8349"
+                        "channel_id": "839"
                     },
                     {
                         "channel_name": "Movistar Deportes Spain",
@@ -2573,6 +2583,21 @@
             }
         ],
         "Soccer</span>": [
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Daegu vs Pohang Steelers",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : FC Seoul vs Gangwon",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Jeonbuk vs Suwon FC",
+                "channels": []
+            },
             {
                 "time": "14:00",
                 "event": "UEFA U19 European Championship : Norway U19 vs Netherlands U19",
@@ -3422,6 +3447,551 @@
                         "channel_id": "144"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Skopje (MKD) : Andrea Nova vs Maria Herazo Gonzalez",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Skopje (MKD) : Gabriel Matuszewski vs Tadija Radovanovic",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Skopje (MKD) : Gorazd Srbljak vs Vardan Manukyan",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Skopje (MKD) : Petra Sedlackova vs Lucie Brun",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Aleksandra Julia Zuchanska vs Amelie Drukerova",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sassuolo (ITA) : Daniel Rincon vs Marco Cecchinato",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sassuolo (ITA) : Michael Geerts vs Francesco Maestrelli",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sassuolo (ITA) : Rei Sakamoto vs Alvaro Guillen Meza",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sassuolo (ITA) : Rodrigo Pacheco Mendez vs Vilius Gaubas",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Sana Garakani vs Olga Golas",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sassuolo (ITA) : Taro Daniel vs Alejandro Moro Canas",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Skopje (MKD) : Aleksandra Simeva vs Shanelle Iaconi",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Skopje (MKD) : Bojana Marinkovic vs Laura Svatikova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Skopje (MKD) : Lucia Aranda Arcas vs Denise Hrdinkova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Skopje (MKD) : Nikola Keremedchiev vs Jonasz Dziopak",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Skopje (MKD) : Oskar Jansson vs Oscar Lacides",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Poznan (POL) : Cristian Garin vs Alexey Vatutin",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Poznan (POL) : Henri Squire vs Dalibor Svrcina",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Poznan (POL) : Valentin Vacherot vs Lorenzo Giustino",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Cattolica (ITA) : Andrea Picchione vs Michele Mecarelli",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Royan (FRA) : Andres Santamarta Roig vs Alex Marti Pujolras",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Royan (FRA) : Lucas Poullain vs Dimitar Kuzmanov",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Royan (FRA) : Thomas Faurel vs Tom Paris",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Sassuolo (ITA) : Francesco Passaro vs Oleg Prihodko",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Sassuolo (ITA) : Giovanni Fonio vs Oriol Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Sassuolo (ITA) : Lukas Neumayer vs Stefano Travaglia",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - Halle (GER) : Andrey Rublev vs Sebastian Ofner",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Carvoeiro (POR) : Didi Bredberg Canizares vs Maria Santos",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - Halle (GER) : Jesper de Jong vs Tomas Machac",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Skopje (MKD) : Jovana Grujic vs Kristyna Damaskova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Carvoeiro (POR) : Karim AL-Amin vs Tomas Pinho",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Skopje (MKD) : Katja Ivanovska vs Alexia Patru",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Carvoeiro (POR) : Klara Milicevic vs Mia Chudejova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - Halle (GER) : Pedro Martinez vs Tomas Martin Etcheverry",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Skopje (MKD) : Razvan Baiant vs Janos Fekete",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Skopje (MKD) : Stefan Micov vs Mihnea Maftei",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Skopje (MKD) : Thiago Agustin Pernas vs Mateja Stefanovic",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Poznan (POL) : Diego Dedura-Palomero vs Matteo Martineau",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Poznan (POL) : Hynek Barton vs Toby Alex Kodat",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Poznan (POL) : Mili Poljicak vs Zdenek Kolar",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ITF (M) - Cattolica (ITA) : Manuel Mazza vs Samuel Vincent Ruggeri",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Nottingham (MBR) - Double : N.Barrientos/R.C.Bollipalli vs B.Bayldon/R.Stalder",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Nottingham (MBR) : Tristan Schoolkate vs Alexander Blockx",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Royan (FRA) : Arthur Gea vs Robert Strombachs",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Royan (FRA) : Norbert Gombos vs Kalin Ivanovski",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Royan (FRA) : Theo Papamalamis vs Ivan Gakhov",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Sassuolo (ITA) : Giulio Zeppieri vs Stefano Napolitano",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Sassuolo (ITA) : Santiago Rodriguez Taverna vs Albert Ramos Vinolas",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "ATP - Halle (GER) : Francisco Cerundolo vs Alex Michelsen",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "ATP - Halle (GER) : Joao Fonseca vs Flavio Cobolli",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "ATP - Halle (GER) : Ugo Humbert vs Denis Shapovalov",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Poznan (POL) : Denis Yevseyev vs Thiago Agustin Tirante",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Poznan (POL) : Maxim Mrva vs Rudolf Molleker",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Poznan (POL) : Viktor Durasovic vs Frederico Ferreira Silva",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) : Alex de Minaur vs Jiri Lehecka",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) : Alexei Popyrin vs Aleksandar Vukic",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) : Brandon Nakashima vs Giovanni Mpetshi Perricard",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Constandena Nicolaou vs Olga Bienzobas Fernandez",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Halle (GER) - Double : M.Gonzalez/A.Molteni vs C.Harrison/E.King",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Mariia Hlahola vs Jacqueline Cabaj Awad",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (F) - Skopje (MKD) : Nina Zabrdac vs Claudia Hoste Ferrer",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) - Double : Ta.Fritz/J.Lehecka vs A.de Minaur/A.Popyrin",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (M) - Carvoeiro (POR) : Vasco Leote Prata vs Gabriel Elicha Navas",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Nottingham (MBR) : Lloyd Harris vs Valentin Royer",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Nottingham (MBR) : Marco Trungelliti vs Colton Smith",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Royan (FRA) : Daniel Merida Aguilar vs Matej Dodig",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Royan (FRA) : Kilian Feldbausch vs Clement Tabur",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Royan (FRA) : Max Alcala Gurri vs Florent Bax",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Sassuolo (ITA) : Geoffrey Blancaneaux vs Luca Van Assche",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Sassuolo (ITA) : Ryan Nijboer vs Dusan Lajovic",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "ATP - Halle (GER) : Felix Auger-Aliassime vs Laslo Djere",
+                "channels": []
+            },
+            {
+                "time": "11:50",
+                "event": "ATP - Halle (GER) - Double : S.Doumbia/F.Reboul vs D.Medvedev/A.Rublev",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Poznan (POL) : Fares Zakaria vs Martin Krumich",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Poznan (POL) : Nicolas Alvarez Varona vs Jurij Rodionov",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "ATP - Londra (MBR) : Arthur Rinderknech vs Ben Shelton",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "ATP - Londra (MBR) : Jenson Brooksby vs Jack Draper",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "ATP - Londra (MBR) : Reilly Opelka vs Camilo Ugo Carabelli",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Nottingham (MBR) : Adrian Mannarino vs Martin Landaluce",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Nottingham (MBR) - Double : G.Andreozzi/T.Arribage vs O.Bonding/R.Peniston",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Royan (FRA) - Double : E.Agafonov/M.Zhukov vs G.Roveri Sidney/A.Urrea",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Sassuolo (ITA) : Federico Arnaboldi vs Raul Brancaccio",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Sassuolo (ITA) : Sascha Wayenburg vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Nottingham (MBR) : Jack Pinnington Jones vs Emilio Nava",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (M) - Carvoeiro (POR) : Derrick Chen vs Cornelius Alexander Shalmi",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Elena Mercioiu vs Eszter Dorka Finak",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (F) - Carvoeiro (POR) : Emma Cohen vs Maelie Monfils",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - Halle (GER) - Double : F.Cabral/L.Miedler vs J.Fonseca/Pe.Tsitsipas",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UTR (M) - Carvoeiro (POR) : Fred Gil vs Diogo Morais",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - Halle (GER) - Double : M.Melo/A.Zverev vs S.Bolelli/A.Vavassori",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "ATP - Londra (MBR) : Carlos Alcaraz vs Alejandro Davidovich Fokina",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "ATP - Londra (MBR) - Double : J.Salisbury/N.Skupski vs J.Fearnley/C.Norrie",
+                "channels": []
+            },
+            {
+                "time": "13:20",
+                "event": "ATP - Londra (MBR) : Jordan Thompson vs Jaume Munar",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Nottingham (MBR) - Double : J.Schnaitter/M.Wallner vs L.Maxted/C.Thomson",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - Halle (GER) : Jannik Sinner vs Yannick Hanfmann",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Nottingham (MBR) : Terence Atmane vs Arthur Fery",
+                "channels": []
+            },
+            {
+                "time": "13:40",
+                "event": "ATP - Londra (MBR) - Double : N.Mektic/M.Venus vs B.Nakashima/F.Tiafoe",
+                "channels": []
+            },
+            {
+                "time": "13:40",
+                "event": "Challenger - Royan (FRA) - Double : S.Agostini/M.Mansilla Diez vs A.Kalyanpur/P.Somani",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Poznan (POL) : Tomasz Berkieta vs Daniel Michalski",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - Londra (MBR) : Corentin Moutet vs Taylor Fritz",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - Londra (MBR) - Double : D.Stevenson/M.Willis vs H.Nys/E.R.Vasselin",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - Londra (MBR) : Gabriel Diallo vs Billy Harris",
+                "channels": []
+            },
+            {
+                "time": "14:40",
+                "event": "ATP - Halle (GER) : Lorenzo Sonego vs Jan-Lennard Struff",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Poznan (POL) - Double : M.Karol/M.Vrbensky vs J.Ingildsen/T.Pereira",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Poznan (POL) - Double : A.Jecan/B.Pavel vs O.Paldanius/A.Wazny",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Royan (FRA) : Benoit Paire vs Buvaysar Gadamauri",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Challenger - Sassuolo (ITA) : Elias Ymer vs Stan Wawrinka",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Challenger - Santa Cruz (BOL) : Facundo Bagnis vs Matheus Pucinelli de Almeida",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Challenger - Santa Cruz (BOL) : Franco Roncadelli vs Tomas Farjat",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Challenger - Santa Cruz (BOL) : Raul Garcia vs Juan Bautista Torres",
+                "channels": []
             }
         ],
         "WWE</span>": [
