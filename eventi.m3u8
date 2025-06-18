@@ -5,12 +5,12 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="uefaeurou21spainu21vsitalyu21" tvg-name="UEFA Euro U-21 : Spain U21 vs Italy U21 (21:00)" tvg-logo="https://raw.githubusercontent.com/TheLotr11/MentalOGMB1/main/logos/Spain U21_vs_Italy U21.png" group-title="Eventi Live",UEFA Euro U-21 : Spain U21 vs Italy U21 (21:00)
-https://themichez-mentalpogm.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+#EXTINF:-1 tvg-id="fifaclubworldcupalainvsjuventus" tvg-name="FIFA Club World Cup : Al Ain vs Juventus (03:00)" tvg-logo="https://raw.githubusercontent.com/TheLotr11/MentalOGMB1/main/logos/Al Ain_vs_Juventus.png" group-title="Eventi Live",FIFA Club World Cup : Al Ain vs Juventus (03:00)
+https://themichez-mentalpogm.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
-#EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legaabresciavsvirtusbologna" tvg-name="Lega A : Brescia vs Virtus Bologna (20:30)" tvg-logo="https://raw.githubusercontent.com/TheLotr11/MentalOGMB1/main/logos/Brescia_vs_Virtus Bologna.png" group-title="Eventi Live",Lega A : Brescia vs Virtus Bologna (20:30)
-https://themichez-mentalpogm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+#EXTINF:-1 tvg-id="tourofswitzerlandstage4menheidenpiuro1932km" tvg-name="Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)" tvg-logo="https://www.magicswitzerland.com/wp-content/uploads/2017/07/grand-tour-of-switzerland-logo.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)
+https://themichez-mentalpogm.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
