@@ -1,3 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="FIFAClubWorldCupInterMiamivsPorto">
+    <display-name>FIFA Club World Cup : Inter Miami vs Porto</display-name>
+  </channel>
+  <programme start="20250619000000 +0200" stop="20250619210000 +0200" channel="FIFAClubWorldCupInterMiamivsPorto">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : Inter Miami vs Porto.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250619210000 +0200" stop="20250619230000 +0200" channel="FIFAClubWorldCupInterMiamivsPorto">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Inter Miami vs Porto</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="LegaABresciavsVirtusBologna">
+    <display-name>Lega A : Brescia vs Virtus Bologna</display-name>
+  </channel>
+  <programme start="20250619000000 +0200" stop="20250619203000 +0200" channel="LegaABresciavsVirtusBologna">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Lega A : Brescia vs Virtus Bologna.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250619203000 +0200" stop="20250619223000 +0200" channel="LegaABresciavsVirtusBologna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lega A : Brescia vs Virtus Bologna</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="EurobasketWomenItalyWvsSloveniaW">
+    <display-name>Eurobasket Women : Italy W vs Slovenia W</display-name>
+  </channel>
+  <programme start="20250619000000 +0200" stop="20250619210000 +0200" channel="EurobasketWomenItalyWvsSloveniaW">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">Eurobasket Women : Italy W vs Slovenia W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250619210000 +0200" stop="20250619230000 +0200" channel="EurobasketWomenItalyWvsSloveniaW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Eurobasket Women : Italy W vs Slovenia W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
+    <display-name>Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km)</display-name>
+  </channel>
+  <programme start="20250619000000 +0200" stop="20250619144500 +0200" channel="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250619144500 +0200" stop="20250619164500 +0200" channel="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
