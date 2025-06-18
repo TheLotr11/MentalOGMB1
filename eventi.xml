@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="TourofSwitzerlandStage4MenHeidenPiuro1932km">
-    <display-name>Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</display-name>
-  </channel>
-  <programme start="20250618000000 +0200" stop="20250618144500 +0200" channel="TourofSwitzerlandStage4MenHeidenPiuro1932km">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250618144500 +0200" stop="20250618164500 +0200" channel="TourofSwitzerlandStage4MenHeidenPiuro1932km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
