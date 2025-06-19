@@ -39,17 +39,4 @@
     <desc lang="it">Eurobasket Women : Italy W vs Slovenia W</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
-    <display-name>Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km)</display-name>
-  </channel>
-  <programme start="20250619000000 +0200" stop="20250619144500 +0200" channel="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250619144500 +0200" stop="20250619164500 +0200" channel="TourofSwitzerlandStage5MenLaPuntSantaMariainCalanca1867km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
