@@ -1,16 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieBSalernitanavsSampdoria">
-    <display-name>Italy - Serie B : Salernitana vs Sampdoria</display-name>
+  <channel id="UEFAEuroU21PortugalU21vsNetherlandsU21">
+    <display-name>UEFA Euro U-21 : Portugal U21 vs Netherlands U21</display-name>
   </channel>
-  <programme start="20250620000000 +0200" stop="20250620203000 +0200" channel="ItalySerieBSalernitanavsSampdoria">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria.</desc>
+  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250620203000 +0200" stop="20250620223000 +0200" channel="ItalySerieBSalernitanavsSampdoria">
+  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria</desc>
+    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupInternazionalevsUrawaReds">
+    <display-name>FIFA Club World Cup : Internazionale vs Urawa Reds</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621210000 +0200" channel="FIFAClubWorldCupInternazionalevsUrawaReds">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : Internazionale vs Urawa Reds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621210000 +0200" stop="20250621230000 +0200" channel="FIFAClubWorldCupInternazionalevsUrawaReds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Internazionale vs Urawa Reds</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="SpainSegundaDivisionRealOviedovsMirands">
+    <display-name>Spain - Segunda Division : Real Oviedo vs Mirandés</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621210000 +0200" channel="SpainSegundaDivisionRealOviedovsMirands">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">Spain - Segunda Division : Real Oviedo vs Mirandés.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621210000 +0200" stop="20250621230000 +0200" channel="SpainSegundaDivisionRealOviedovsMirands">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Spain - Segunda Division : Real Oviedo vs Mirandés</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Moto3ItalianGrandPrixFreePractice2">
+    <display-name>Moto3 : Italian Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621083500 +0200" channel="Moto3ItalianGrandPrixFreePractice2">
+    <title lang="it">Inizia  alle 08:35.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621083500 +0200" stop="20250621103500 +0200" channel="Moto3ItalianGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="FormulaEJakartaEPrixTheRace">
+    <display-name>Formula E : Jakarta E-Prix: The Race</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621100000 +0200" channel="FormulaEJakartaEPrixTheRace">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">Formula E : Jakarta E-Prix: The Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621100000 +0200" stop="20250621120000 +0200" channel="FormulaEJakartaEPrixTheRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula E : Jakarta E-Prix: The Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ItalianGrandPrixPractice2">
+    <display-name>Moto2 : Italian Grand Prix Practice 2</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621104500 +0200" channel="Moto2ItalianGrandPrixPractice2">
+    <title lang="it">Inizia  alle 10:45.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621104500 +0200" stop="20250621124500 +0200" channel="Moto2ItalianGrandPrixPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPItalianGrandPrixQualifying">
+    <display-name>MotoGP : Italian Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621124500 +0200" channel="MotoGPItalianGrandPrixQualifying">
+    <title lang="it">Inizia  alle 12:45.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621124500 +0200" stop="20250621144500 +0200" channel="MotoGPItalianGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3ItalianGrandPrixQualifying">
+    <display-name>Moto3 : Italian Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621124500 +0200" channel="Moto3ItalianGrandPrixQualifying">
+    <title lang="it">Inizia  alle 12:45.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621124500 +0200" stop="20250621144500 +0200" channel="Moto3ItalianGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ItalianGrandPrixQualifying">
+    <display-name>Moto2 : Italian Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621134000 +0200" channel="Moto2ItalianGrandPrixQualifying">
+    <title lang="it">Inizia  alle 13:40.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621134000 +0200" stop="20250621154000 +0200" channel="Moto2ItalianGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPItalianGrandPrixSprintRace">
+    <display-name>MotoGP : Italian Grand Prix Sprint Race</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621144500 +0200" channel="MotoGPItalianGrandPrixSprintRace">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621144500 +0200" stop="20250621164500 +0200" channel="MotoGPItalianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="EurobasketWomenItalyWvsLithuaniaW">
+    <display-name>Eurobasket Women : Italy W vs Lithuania W</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621210000 +0200" channel="EurobasketWomenItalyWvsLithuaniaW">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">Eurobasket Women : Italy W vs Lithuania W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621210000 +0200" stop="20250621230000 +0200" channel="EurobasketWomenItalyWvsLithuaniaW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Eurobasket Women : Italy W vs Lithuania W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="UCIDownhillWorldCupWomenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
+    <display-name>UCI Downhill World Cup | Women Elite | Val di Sole WHOOP UCI Mountain Bike World Series</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621113000 +0200" channel="UCIDownhillWorldCupWomenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Inizia  alle 11:30.</title>
+    <desc lang="it">UCI Downhill World Cup | Women Elite | Val di Sole WHOOP UCI Mountain Bike World Series.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621113000 +0200" stop="20250621133000 +0200" channel="UCIDownhillWorldCupWomenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Downhill World Cup | Women Elite | Val di Sole WHOOP UCI Mountain Bike World Series</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
+    <display-name>Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km)</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621144500 +0200" channel="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621144500 +0200" stop="20250621164500 +0200" channel="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="JumpingParisGlobalChampionsTourEvent7">
+    <display-name>Jumping | Paris Global Champions Tour | Event 7</display-name>
+  </channel>
+  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
+    <title lang="it">Inizia  alle 18:30.</title>
+    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7</desc>
+    <category lang="it">Equestrian</category>
   </programme>
 </tv>
