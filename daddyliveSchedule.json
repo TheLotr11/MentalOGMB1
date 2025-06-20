@@ -1,5 +1,197 @@
 {
     "Friday 20th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:30",
+                "event": "Gladiators III: Matty McHale vs Sean Bruce",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "2025 Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Senators Cup at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Eastern Storm at Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "IRA Sprint Car Series Outagamie Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "The Quebec Bowl Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Moler Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Fight to Win 284",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 SlamFest at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "NARC Super Dirt Cup Skagit",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "LFA 211: Mesquita vs. DinwoodieUFC",
+                "channels": [
+                    {
+                        "channel_name": "Fight Pass",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "XFN 401 PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "GCW: Bangin' In Little Rock 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Urijah Faber's A1 Combat 28: Vogels vs. Collins",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "171"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
