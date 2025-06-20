@@ -26,45 +26,6 @@
     <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Moto3ItalianGrandPrixPractice1">
-    <display-name>Moto3 : Italian Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620131000 +0200" channel="Moto3ItalianGrandPrixPractice1">
-    <title lang="it">Inizia  alle 13:10.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620131000 +0200" stop="20250620151000 +0200" channel="Moto3ItalianGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPItalianGrandPrixPractice1">
-    <display-name>MotoGP : Italian Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620131500 +0200" channel="MotoGPItalianGrandPrixPractice1">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620131500 +0200" stop="20250620151500 +0200" channel="MotoGPItalianGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2ItalianGrandPrixPractice1">
-    <display-name>Moto2 : Italian Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620140000 +0200" channel="Moto2ItalianGrandPrixPractice1">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620140000 +0200" stop="20250620160000 +0200" channel="Moto2ItalianGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="TourofSwitzerlandStage6MenChurNeuhausenamRheinfall1867km">
     <display-name>Tour of Switzerland | Stage 6 Men | Chur - Neuhausen am Rheinfall (186.7 km)</display-name>
   </channel>
