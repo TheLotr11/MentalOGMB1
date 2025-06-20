@@ -11,9 +11,9 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
+#EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
+#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://exemple.m3u8
 

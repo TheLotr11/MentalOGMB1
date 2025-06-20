@@ -26,45 +26,6 @@
     <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPItalianGrandPrixFreePractice1">
-    <display-name>MotoGP : Italian Grand Prix Free Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620090000 +0200" channel="MotoGPItalianGrandPrixFreePractice1">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620090000 +0200" stop="20250620110000 +0200" channel="MotoGPItalianGrandPrixFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3ItalianGrandPrixFreePractice1">
-    <display-name>Moto3 : Italian Grand Prix Free Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620090000 +0200" channel="Moto3ItalianGrandPrixFreePractice1">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620090000 +0200" stop="20250620110000 +0200" channel="Moto3ItalianGrandPrixFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2ItalianGrandPrixFreePractice1">
-    <display-name>Moto2 : Italian Grand Prix Free Practice 1</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620094500 +0200" channel="Moto2ItalianGrandPrixFreePractice1">
-    <title lang="it">Inizia  alle 09:45.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620094500 +0200" stop="20250620114500 +0200" channel="Moto2ItalianGrandPrixFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3ItalianGrandPrixPractice1">
     <display-name>Moto3 : Italian Grand Prix Practice 1</display-name>
   </channel>
