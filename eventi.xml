@@ -39,45 +39,6 @@
     <desc lang="it">Spain - Segunda Division : Real Oviedo vs Mirandés</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPItalianGrandPrixQualifying">
-    <display-name>MotoGP : Italian Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621124500 +0200" channel="MotoGPItalianGrandPrixQualifying">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621124500 +0200" stop="20250621144500 +0200" channel="MotoGPItalianGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3ItalianGrandPrixQualifying">
-    <display-name>Moto3 : Italian Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621124500 +0200" channel="Moto3ItalianGrandPrixQualifying">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621124500 +0200" stop="20250621144500 +0200" channel="Moto3ItalianGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2ItalianGrandPrixQualifying">
-    <display-name>Moto2 : Italian Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621134000 +0200" channel="Moto2ItalianGrandPrixQualifying">
-    <title lang="it">Inizia  alle 13:40.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621134000 +0200" stop="20250621154000 +0200" channel="Moto2ItalianGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Italian Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPItalianGrandPrixSprintRace">
     <display-name>MotoGP : Italian Grand Prix Sprint Race</display-name>
   </channel>
