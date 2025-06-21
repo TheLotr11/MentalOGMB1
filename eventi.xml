@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <display-name>UEFA Euro U-21 : Portugal U21 vs Netherlands U21</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="FIFAClubWorldCupInternazionalevsUrawaReds">
     <display-name>FIFA Club World Cup : Internazionale vs Urawa Reds</display-name>
   </channel>
