@@ -39,19 +39,6 @@
     <desc lang="it">Spain - Segunda Division : Real Oviedo vs Mirandés</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPItalianGrandPrixSprintRace">
-    <display-name>MotoGP : Italian Grand Prix Sprint Race</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621144500 +0200" channel="MotoGPItalianGrandPrixSprintRace">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621144500 +0200" stop="20250621164500 +0200" channel="MotoGPItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="EurobasketWomenItalyWvsLithuaniaW">
     <display-name>Eurobasket Women : Italy W vs Lithuania W</display-name>
   </channel>
@@ -64,19 +51,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Eurobasket Women : Italy W vs Lithuania W</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
-    <display-name>Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km)</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621144500 +0200" channel="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621144500 +0200" stop="20250621164500 +0200" channel="TourofSwitzerlandStage7MenNeuhausenamRheinfallEmmetten2073km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 7Men | Neuhausen am Rheinfall - Emmetten (207.3 km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="JumpingParisGlobalChampionsTourEvent7">
     <display-name>Jumping | Paris Global Champions Tour | Event 7</display-name>
