@@ -39,17 +39,4 @@
     <desc lang="it">Eurobasket Women : Italy W vs Lithuania W</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="JumpingParisGlobalChampionsTourEvent7">
-    <display-name>Jumping | Paris Global Champions Tour | Event 7</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
 </tv>
