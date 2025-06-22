@@ -75,17 +75,4 @@
     <desc lang="it">MX2 | World Championship | Great Britain 2nd Race</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="TourofSwitzerlandStage8MenBeckenriedStockhtteITT10km">
-    <display-name>Tour of Switzerland | Stage 8 Men | Beckenried - Stockh?tte (ITT, 10km)</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622150000 +0200" channel="TourofSwitzerlandStage8MenBeckenriedStockhtteITT10km">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Tour of Switzerland | Stage 8 Men | Beckenried - Stockh?tte (ITT, 10km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622150000 +0200" stop="20250622170000 +0200" channel="TourofSwitzerlandStage8MenBeckenriedStockhtteITT10km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 8 Men | Beckenried - Stockh?tte (ITT, 10km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
