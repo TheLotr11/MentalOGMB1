@@ -2260,7 +2260,7 @@
         ],
         "Tennis</span>": [
             {
-                "time": "21:46",
+                "time": "01:43",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 6",
                 "channels": [
                     {
@@ -5722,6 +5722,41 @@
         ],
         "Soccer</span>": [
             {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Busan IPark vs Cheongju",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gimcheon Sangmu vs Anyang",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gwangju vs Daejeon Citizen",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gyeongnam vs Suwon Bluewings",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Jeonnam Dragons vs Gimpo",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "China - Cup FA : Shanghai Port vs Shanghai Shenhua",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - Cup FA : Henan FC vs Zhejiang Professional",
+                "channels": []
+            },
+            {
                 "time": "12:30",
                 "event": "Norway - Eliteserien : V\u00e5lerenga vs Molde",
                 "channels": [
@@ -6836,9 +6871,155 @@
                 ]
             }
         ],
+        "Tennis ATP - LONDON</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - LONDON : Bublik A. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Mektic N./Venus M. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - HALLE</span>": [
+            {
+                "time": "06:30",
+                "event": "ATP - HALLE : Krawietz K./Puetz T. vs Bolelli S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Alcaraz C. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - MALLORCA</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP - MALLORCA : Bu Y. vs Djere L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - MALLORCA : Fognini F. vs Altmaier D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BERLIN</span>": [
+            {
+                "time": "06:30",
+                "event": "WTA - BERLIN : Vondrousova M. vs Wang Xin.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - BERLIN : Errani S./Paolini J. vs Mihalikova T./Nicholls O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - NOTTINGHAM</span>": [
+            {
+                "time": "07:30",
+                "event": "WTA - NOTTINGHAM : Kessler M. vs Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BAD HOMBURG</span>": [
+            {
+                "time": "05:30",
+                "event": "WTA - BAD HOMBURG : Putintseva Y. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - BAD HOMBURG : Kostyuk M. vs Navarro E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - BAD HOMBURG : Fernandez L. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - BAD HOMBURG : Svitolina E. vs Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
-                "time": "21:46",
+                "time": "01:43",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 7",
                 "channels": [
                     {
@@ -6954,6 +7135,106 @@
                         "channel_id": "144"
                     }
                 ]
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Skopje (MKD) : Laura Svatikova vs Petra Sedlackova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Skopje (MKD) : Natalia Michta vs Ceylin Ipek",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "UTR (F) - Skopje (MKD) : Maria Herazo Gonzalez vs Lucia Aranda Arcas",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (F) - Skopje (MKD) : Alexia Patru vs Lucie Brun",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - Eastbourne (MBR) - Qualifiers : Aleksandar Vukic vs Jenson Brooksby",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - Mallorca (SPA) - Qualifiers : Brandon Holt vs Elias Ymer",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - Halle (GER) - Double : K.Krawietz/T.Puetz vs S.Bolelli/A.Vavassori",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Mallorca (SPA) - Qualifiers : Aleksandar Kovacevic vs Bernard Tomic",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Mallorca (SPA) - Qualifiers : Mariano Navone vs Nishesh Basavareddy",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "ATP - Eastbourne (MBR) - Qualifiers : Johannus Monday vs James Duckworth",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "ATP - Mallorca (SPA) - Qualifiers : Vit Kopriva vs Ethan Quinn",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "ATP - Eastbourne (MBR) - Qualifiers : Billy Harris vs George Loffhagen",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "ATP - Eastbourne (MBR) - Qualifiers : Mattia Bellucci vs Chun Hsin Tseng",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP Halle : Alexander Bublik vs Daniil Medvedev",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Cinch Championships : Carlos Alcaraz Garfia vs Jiri Lehecka",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - Mallorca (SPA) : Bu Yunchaokete vs Laslo Djere",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "ATP - Londra (MBR) - Double : N.Mektic/M.Venus vs J.Cash/L.Glasspool",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - Mallorca (SPA) : Fabio Fognini vs Daniel Altmaier",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "UTR (M) - Norman (USA) : Alan Magadan vs Thomas Nicholas Gadecki",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "UTR (F) - Norman (USA) : Ava Bruno vs Anastasiya Komar",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -8459,6 +8740,11 @@
             },
             {
                 "time": "16:30",
+                "event": "Italy - Serie B - Promovare : Herons vs Mestre",
+                "channels": []
+            },
+            {
+                "time": "16:30",
                 "event": "ACB : Real Madrid vs Valencia",
                 "channels": [
                     {
@@ -8507,11 +8793,25 @@
             },
             {
                 "time": "17:00",
-                "event": "BIG3 Basketball : Baltimore",
+                "event": "BIG3 Basketball : Miami 305 vs. Detroit Amplifiers",
                 "channels": [
                     {
                         "channel_name": "CBS USA",
                         "channel_id": "52"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "BIG3 Basketball : DMV Trilogy vs. Boston Ball Hogs",
+                "channels": [
+                    {
+                        "channel_name": "CBS USA",
+                        "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
                     }
                 ]
             },
@@ -8828,6 +9128,13 @@
                 ]
             }
         ],
+        "Badminton</span>": [
+            {
+                "time": "09:00",
+                "event": "Czech Future Series - Double Mixt : S.Krax/A.Lehmann vs E.Sonmez/Y.Bektas",
+                "channels": []
+            }
+        ],
         "Cycling</span>": [
             {
                 "time": "08:30",
@@ -9000,6 +9307,13 @@
                         "channel_id": "456"
                     }
                 ]
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "05:45",
+                "event": "Australia - AIHL \tBrisbane Lightning vs Melbourne Ice",
+                "channels": []
             }
         ],
         "Futsal</span>": [
