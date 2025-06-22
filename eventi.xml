@@ -62,32 +62,6 @@
     <desc lang="it">UEFA Euro U-21 : Germany U21 vs Italy U21</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPItalianGrandPrixWarmUp">
-    <display-name>MotoGP : Italian Grand Prix Warm Up</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622093000 +0200" channel="MotoGPItalianGrandPrixWarmUp">
-    <title lang="it">Inizia  alle 09:30.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622093000 +0200" stop="20250622113000 +0200" channel="MotoGPItalianGrandPrixWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3ItalianGrandPrixRace">
-    <display-name>Moto3 : Italian Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622100000 +0200" channel="Moto3ItalianGrandPrixRace">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622100000 +0200" stop="20250622120000 +0200" channel="Moto3ItalianGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Italian Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2ItalianGrandPrixRace">
     <display-name>Moto2 : Italian Grand Prix Race</display-name>
   </channel>
