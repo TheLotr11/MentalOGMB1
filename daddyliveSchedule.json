@@ -1,5 +1,57 @@
 {
     "Sunday 22nd June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "Fury FC 105: Whitehead vs. Valenzuela",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "GCW: Take A Picture 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Eastern Storm at Action Track USA",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Late Models Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
@@ -1641,7 +1693,7 @@
         ],
         "Tennis</span>": [
             {
-                "time": "09:19",
+                "time": "19:25",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 7",
                 "channels": [
                     {
