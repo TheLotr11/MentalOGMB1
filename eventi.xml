@@ -62,32 +62,6 @@
     <desc lang="it">UEFA Euro U-21 : Germany U21 vs Italy U21</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPItalianGrandPrixRace">
-    <display-name>MotoGP : Italian Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622140000 +0200" channel="MotoGPItalianGrandPrixRace">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622140000 +0200" stop="20250622160000 +0200" channel="MotoGPItalianGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Italian Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MX2WorldChampionshipGreatBritain1stRace">
-    <display-name>MX2 | World Championship | Great Britain 1st Race</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622140000 +0200" channel="MX2WorldChampionshipGreatBritain1stRace">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">MX2 | World Championship | Great Britain 1st Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622140000 +0200" stop="20250622160000 +0200" channel="MX2WorldChampionshipGreatBritain1stRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MX2 | World Championship | Great Britain 1st Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MX2WorldChampionshipGreatBritain2ndRace">
     <display-name>MX2 | World Championship | Great Britain 2nd Race</display-name>
   </channel>
@@ -100,19 +74,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MX2 | World Championship | Great Britain 2nd Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="UCICrosscountryOlympicWorldCupMenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
-    <display-name>UCI Cross-country Olympic World Cup | Men Elite | Val di Sole WHOOP UCI Mountain Bike World Series</display-name>
-  </channel>
-  <programme start="20250622000000 +0200" stop="20250622131500 +0200" channel="UCICrosscountryOlympicWorldCupMenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Val di Sole WHOOP UCI Mountain Bike World Series.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622131500 +0200" stop="20250622151500 +0200" channel="UCICrosscountryOlympicWorldCupMenEliteValdiSoleWHOOPUCIMountainBikeWorldSeries">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Val di Sole WHOOP UCI Mountain Bike World Series</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="TourofSwitzerlandStage8MenBeckenriedStockhtteITT10km">
     <display-name>Tour of Switzerland | Stage 8 Men | Beckenried - Stockh?tte (ITT, 10km)</display-name>
