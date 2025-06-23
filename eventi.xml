@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupAtlticoMadridvsBotafogo">
-    <display-name>FIFA Club World Cup : Atlético Madrid vs Botafogo</display-name>
+  <channel id="UEFAU19EuropeanChampionshipWomenSemiFinal1FranceU19vsPortugalU19">
+    <display-name>UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19</display-name>
   </channel>
-  <programme start="20250623000000 +0200" stop="20250623210000 +0200" channel="FIFAClubWorldCupAtlticoMadridvsBotafogo">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup : Atlético Madrid vs Botafogo.</desc>
+  <programme start="20250624000000 +0200" stop="20250624170000 +0200" channel="UEFAU19EuropeanChampionshipWomenSemiFinal1FranceU19vsPortugalU19">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250623210000 +0200" stop="20250623230000 +0200" channel="FIFAClubWorldCupAtlticoMadridvsBotafogo">
+  <programme start="20250624170000 +0200" stop="20250624190000 +0200" channel="UEFAU19EuropeanChampionshipWomenSemiFinal1FranceU19vsPortugalU19">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Atlético Madrid vs Botafogo</desc>
+    <desc lang="it">UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupBenficavsBayernMnchen">
+    <display-name>FIFA Club World Cup : Benfica vs Bayern München</display-name>
+  </channel>
+  <programme start="20250624000000 +0200" stop="20250624210000 +0200" channel="FIFAClubWorldCupBenficavsBayernMnchen">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : Benfica vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250624210000 +0200" stop="20250624230000 +0200" channel="FIFAClubWorldCupBenficavsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Benfica vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
+    <display-name>EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W</display-name>
+  </channel>
+  <programme start="20250624000000 +0200" stop="20250624163000 +0200" channel="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250624163000 +0200" stop="20250624183000 +0200" channel="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W</desc>
+    <category lang="it">Basketball</category>
   </programme>
 </tv>
