@@ -26,17 +26,4 @@
     <desc lang="it">FIFA Club World Cup : Benfica vs Bayern München</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
-    <display-name>EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W</display-name>
-  </channel>
-  <programme start="20250624000000 +0200" stop="20250624163000 +0200" channel="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
-    <title lang="it">Inizia  alle 16:30.</title>
-    <desc lang="it">EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250624163000 +0200" stop="20250624183000 +0200" channel="EUROBASKETWQuarterfinals1FranceWvsLithuaniaW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
 </tv>
