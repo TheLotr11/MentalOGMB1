@@ -1,16 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAEuroU21SemiFinal2GermanyU21vsFranceU21">
-    <display-name>UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21</display-name>
+  <channel id="FIFAClubWorldCupJuventusvsManchesterCity">
+    <display-name>FIFA Club World Cup : Juventus vs Manchester City</display-name>
   </channel>
-  <programme start="20250625000000 +0200" stop="20250625210000 +0200" channel="UEFAEuroU21SemiFinal2GermanyU21vsFranceU21">
+  <programme start="20250626000000 +0200" stop="20250626210000 +0200" channel="FIFAClubWorldCupJuventusvsManchesterCity">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21.</desc>
+    <desc lang="it">FIFA Club World Cup : Juventus vs Manchester City.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250625210000 +0200" stop="20250625230000 +0200" channel="UEFAEuroU21SemiFinal2GermanyU21vsFranceU21">
+  <programme start="20250626210000 +0200" stop="20250626230000 +0200" channel="FIFAClubWorldCupJuventusvsManchesterCity">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21</desc>
+    <desc lang="it">FIFA Club World Cup : Juventus vs Manchester City</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupInnsbruckMensBoulderFinal">
+    <display-name>World Cup | Innsbruck Men's Boulder | Final</display-name>
+  </channel>
+  <programme start="20250626000000 +0200" stop="20250626193000 +0200" channel="WorldCupInnsbruckMensBoulderFinal">
+    <title lang="it">Inizia  alle 19:30.</title>
+    <desc lang="it">World Cup | Innsbruck Men's Boulder | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250626193000 +0200" stop="20250626213000 +0200" channel="WorldCupInnsbruckMensBoulderFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup | Innsbruck Men's Boulder | Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="FrenchNationalRoadChampionshipsWomenLesHerbiersITT265km">
+    <display-name>French National Road Championships Women | Les Herbiers (ITT, 26.5km)</display-name>
+  </channel>
+  <programme start="20250626000000 +0200" stop="20250626130000 +0200" channel="FrenchNationalRoadChampionshipsWomenLesHerbiersITT265km">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">French National Road Championships Women | Les Herbiers (ITT, 26.5km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250626130000 +0200" stop="20250626150000 +0200" channel="FrenchNationalRoadChampionshipsWomenLesHerbiersITT265km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Women | Les Herbiers (ITT, 26.5km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="FrenchNationalRoadChampionshipsMenLesHerbiersITT265km">
+    <display-name>French National Road Championships Men | Les Herbiers (ITT, 26.5km)</display-name>
+  </channel>
+  <programme start="20250626000000 +0200" stop="20250626170000 +0200" channel="FrenchNationalRoadChampionshipsMenLesHerbiersITT265km">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">French National Road Championships Men | Les Herbiers (ITT, 26.5km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250626170000 +0200" stop="20250626190000 +0200" channel="FrenchNationalRoadChampionshipsMenLesHerbiersITT265km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Men | Les Herbiers (ITT, 26.5km)</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
