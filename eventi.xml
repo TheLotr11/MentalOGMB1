@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupInternazionalevsRiverPlate">
-    <display-name>FIFA Club World Cup : Internazionale vs River Plate</display-name>
-  </channel>
-  <programme start="20250625000000 +0200" stop="20250625030000 +0200" channel="FIFAClubWorldCupInternazionalevsRiverPlate">
-    <title lang="it">Inizia  alle 03:00.</title>
-    <desc lang="it">FIFA Club World Cup : Internazionale vs River Plate.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250625030000 +0200" stop="20250625050000 +0200" channel="FIFAClubWorldCupInternazionalevsRiverPlate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Internazionale vs River Plate</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="UEFAEuroU21EnglandU21vsNetherlandsU21">
     <display-name>UEFA Euro U21 : England U21 vs Netherlands U21</display-name>
   </channel>
