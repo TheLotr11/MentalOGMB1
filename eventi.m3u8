@@ -5,3 +5,9 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
+https://exemple.m3u8
+
