@@ -1,57 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="Moto3DutchGrandPrixPractice">
-    <display-name>Moto3 : Dutch Grand Prix Practice</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627131000 +0200" channel="Moto3DutchGrandPrixPractice">
-    <title lang="it">Inizia  alle 13:10.</title>
-    <desc lang="it">Moto3 : Dutch Grand Prix Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627131000 +0200" stop="20250627151000 +0200" channel="Moto3DutchGrandPrixPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Dutch Grand Prix Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPDutchGrandPrixPractice2">
-    <display-name>MotoGP : Dutch Grand Prix Practice 2</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627131500 +0200" channel="MotoGPDutchGrandPrixPractice2">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627131500 +0200" stop="20250627151500 +0200" channel="MotoGPDutchGrandPrixPractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula1MSCCruisesAustrianGPPractice1">
-    <display-name>Formula 1 : MSC Cruises Austrian GP - Practice 1</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627133000 +0200" channel="Formula1MSCCruisesAustrianGPPractice1">
-    <title lang="it">Inizia  alle 13:30.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627133000 +0200" stop="20250627153000 +0200" channel="Formula1MSCCruisesAustrianGPPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2DutchGrandPrixPractice">
-    <display-name>Moto2 : Dutch Grand Prix Practice</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627140000 +0200" channel="Moto2DutchGrandPrixPractice">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627140000 +0200" stop="20250627160000 +0200" channel="Moto2DutchGrandPrixPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula3MSCCruisesAustrianGPQualifying">
     <display-name>Formula 3 : MSC Cruises Austrian GP Qualifying</display-name>
   </channel>
