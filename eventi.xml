@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="Formula3MSCCruisesAustrianGPQualifying">
-    <display-name>Formula 3 : MSC Cruises Austrian GP Qualifying</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627150000 +0200" channel="Formula3MSCCruisesAustrianGPQualifying">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627150000 +0200" stop="20250627170000 +0200" channel="Formula3MSCCruisesAustrianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2MSCCruisesAustrianGPQualifying">
-    <display-name>Formula 2 : MSC Cruises Austrian GP Qualifying</display-name>
-  </channel>
-  <programme start="20250627000000 +0200" stop="20250627160000 +0200" channel="Formula2MSCCruisesAustrianGPQualifying">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Formula 2 : MSC Cruises Austrian GP Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627160000 +0200" stop="20250627180000 +0200" channel="Formula2MSCCruisesAustrianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : MSC Cruises Austrian GP Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MSCCruisesAustrianGPPractice2">
     <display-name>Formula 1 : MSC Cruises Austrian GP - Practice 2</display-name>
   </channel>
