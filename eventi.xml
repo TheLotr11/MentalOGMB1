@@ -1,3 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFAEuroU21FinalGermanyU21vsEnglandU21">
+    <display-name>UEFA Euro U21: Final : Germany U21 vs England U21</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628210000 +0200" channel="UEFAEuroU21FinalGermanyU21vsEnglandU21">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Euro U21: Final : Germany U21 vs England U21.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628210000 +0200" stop="20250628230000 +0200" channel="UEFAEuroU21FinalGermanyU21vsEnglandU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Euro U21: Final : Germany U21 vs England U21</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Moto3DutchGrandPrixFreePractice2">
+    <display-name>Moto3 : Dutch Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628083000 +0200" channel="Moto3DutchGrandPrixFreePractice2">
+    <title lang="it">Inizia  alle 08:30.</title>
+    <desc lang="it">Moto3 : Dutch Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628083000 +0200" stop="20250628103000 +0200" channel="Moto3DutchGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Dutch Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2DutchGrandPrixFreePractice2">
+    <display-name>Moto2 : Dutch Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628092000 +0200" channel="Moto2DutchGrandPrixFreePractice2">
+    <title lang="it">Inizia  alle 09:20.</title>
+    <desc lang="it">Moto2 : Dutch Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628092000 +0200" stop="20250628112000 +0200" channel="Moto2DutchGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Dutch Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula3MSCCruisesAustrianGPSprintRaceSpielberg">
+    <display-name>Formula 3 : MSC Cruises Austrian GP Sprint Race - Spielberg</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628100000 +0200" channel="Formula3MSCCruisesAustrianGPSprintRaceSpielberg">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Sprint Race - Spielberg.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628100000 +0200" stop="20250628120000 +0200" channel="Formula3MSCCruisesAustrianGPSprintRaceSpielberg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Sprint Race - Spielberg</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPDutchGrandPrixQualifying">
+    <display-name>MotoGP : Dutch Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628100000 +0200" channel="MotoGPDutchGrandPrixQualifying">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628100000 +0200" stop="20250628120000 +0200" channel="MotoGPDutchGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MSCCruisesAustrianGPPractice3">
+    <display-name>Formula 1 : MSC Cruises Austrian GP - Practice 3</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628123000 +0200" channel="Formula1MSCCruisesAustrianGPPractice3">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628123000 +0200" stop="20250628143000 +0200" channel="Formula1MSCCruisesAustrianGPPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3DutchGrandPrixQualifying">
+    <display-name>Moto3 : Dutch Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628133000 +0200" channel="Moto3DutchGrandPrixQualifying">
+    <title lang="it">Inizia  alle 13:30.</title>
+    <desc lang="it">Moto3 : Dutch Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628133000 +0200" stop="20250628153000 +0200" channel="Moto3DutchGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Dutch Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2DutchGrandPrixQualifying">
+    <display-name>Moto2 : Dutch Grand Prix Qualifying</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628134000 +0200" channel="Moto2DutchGrandPrixQualifying">
+    <title lang="it">Inizia  alle 13:40.</title>
+    <desc lang="it">Moto2 : Dutch Grand Prix Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628134000 +0200" stop="20250628154000 +0200" channel="Moto2DutchGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Dutch Grand Prix Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2MSCCruisesAustrianGPSprintRaceSpielberg">
+    <display-name>Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628141500 +0200" channel="Formula2MSCCruisesAustrianGPSprintRaceSpielberg">
+    <title lang="it">Inizia  alle 14:15.</title>
+    <desc lang="it">Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628141500 +0200" stop="20250628161500 +0200" channel="Formula2MSCCruisesAustrianGPSprintRaceSpielberg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPDutchGrandPrixSprintRace">
+    <display-name>MotoGP : Dutch Grand Prix Sprint Race</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628144500 +0200" channel="MotoGPDutchGrandPrixSprintRace">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628144500 +0200" stop="20250628164500 +0200" channel="MotoGPDutchGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MSCCruisesAustrianGPQualifying">
+    <display-name>Formula 1 : MSC Cruises Austrian GP - Qualifying</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628160000 +0200" channel="Formula1MSCCruisesAustrianGPQualifying">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628160000 +0200" stop="20250628180000 +0200" channel="Formula1MSCCruisesAustrianGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="FrenchNationalRoadChampionshipsWomensRoadRaceLesHerbiers115km">
+    <display-name>French National Road Championships Women's Road Race | Les Herbiers (115km)</display-name>
+  </channel>
+  <programme start="20250628000000 +0200" stop="20250628130000 +0200" channel="FrenchNationalRoadChampionshipsWomensRoadRaceLesHerbiers115km">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">French National Road Championships Women's Road Race | Les Herbiers (115km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628130000 +0200" stop="20250628150000 +0200" channel="FrenchNationalRoadChampionshipsWomensRoadRaceLesHerbiers115km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Women's Road Race | Les Herbiers (115km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250628150000 +0200" stop="20250628163000 +0200" channel="FrenchNationalRoadChampionshipsWomensRoadRaceLesHerbiers115km">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">French National Road Championships Women's Road Race | Les Herbiers (115km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250628163000 +0200" stop="20250628183000 +0200" channel="FrenchNationalRoadChampionshipsWomensRoadRaceLesHerbiers115km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Women's Road Race | Les Herbiers (115km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
