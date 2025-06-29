@@ -13,19 +13,6 @@
     <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Moto2DutchGrandPrixRace">
-    <display-name>Moto2 : Dutch Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629120000 +0200" channel="Moto2DutchGrandPrixRace">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629120000 +0200" stop="20250629140000 +0200" channel="Moto2DutchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MSCCruisesAustrianGPGrandPrixSunday">
     <display-name>Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</display-name>
   </channel>
@@ -90,19 +77,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup | Innsbruck Men's & Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="UCISpanishChampionshipWomenGranada">
-    <display-name>UCI Spanish Championship | Women Granada</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629104500 +0200" channel="UCISpanishChampionshipWomenGranada">
-    <title lang="it">Inizia  alle 10:45.</title>
-    <desc lang="it">UCI Spanish Championship | Women Granada.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629104500 +0200" stop="20250629124500 +0200" channel="UCISpanishChampionshipWomenGranada">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Spanish Championship | Women Granada</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
     <display-name>French National Road Championships Men's Road Race | Les Herbiers (231km)</display-name>
