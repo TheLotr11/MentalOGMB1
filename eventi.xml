@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupFlamengovsBayernMnchen">
-    <display-name>FIFA Club World Cup : Flamengo vs Bayern München</display-name>
+  <channel id="FIFAClubWorldCupInternazionalevsFluminense">
+    <display-name>FIFA Club World Cup : Internazionale vs Fluminense</display-name>
   </channel>
-  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München.</desc>
+  <programme start="20250630000000 +0200" stop="20250630210000 +0200" channel="FIFAClubWorldCupInternazionalevsFluminense">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : Internazionale vs Fluminense.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+  <programme start="20250630210000 +0200" stop="20250630230000 +0200" channel="FIFAClubWorldCupInternazionalevsFluminense">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
+    <desc lang="it">FIFA Club World Cup : Internazionale vs Fluminense</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <display-name>2025 Wimbledon Championships Early Round Coverage, Day 1</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630200000 +0200" stop="20250630220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630200000 +0200" stop="20250630220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630200000 +0200" stop="20250630220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 1</desc>
+    <category lang="it">Tennis</category>
   </programme>
 </tv>
