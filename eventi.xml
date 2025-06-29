@@ -13,30 +13,4 @@
     <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="EuropeanChampionshipWFinalSpainWvsBelgiumW">
-    <display-name>European Championship (W) Final : Spain W vs Belgium W</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629193000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
-    <title lang="it">Inizia  alle 19:30.</title>
-    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629193000 +0200" stop="20250629213000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <channel id="WorldCupInnsbruckMensWomensLeadFinal">
-    <display-name>World Cup | Innsbruck Men's & Women's Lead | Final</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629191500 +0200" channel="WorldCupInnsbruckMensWomensLeadFinal">
-    <title lang="it">Inizia  alle 19:15.</title>
-    <desc lang="it">World Cup | Innsbruck Men's & Women's Lead | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629191500 +0200" stop="20250629211500 +0200" channel="WorldCupInnsbruckMensWomensLeadFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Innsbruck Men's & Women's Lead | Final</desc>
-    <category lang="it">Climbing</category>
-  </programme>
 </tv>
