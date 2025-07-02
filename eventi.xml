@@ -23,37 +23,4 @@
     <desc lang="it">UEFA Women's Euro : Switzerland vs Norway</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <display-name>2025 Wimbledon Championships Early Round Coverage, Day 3</display-name>
-  </channel>
-  <programme start="20250702000000 +0200" stop="20250702200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250702200000 +0200" stop="20250702220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250702000000 +0200" stop="20250702200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250702200000 +0200" stop="20250702220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250702000000 +0200" stop="20250702200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250702200000 +0200" stop="20250702220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 3</desc>
-    <category lang="it">Tennis</category>
-  </programme>
 </tv>
