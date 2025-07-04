@@ -72,19 +72,6 @@
     <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula1QatarAirwaysBritishGPPractice1">
-    <display-name>Formula 1 : Qatar Airways British GP - Practice 1</display-name>
-  </channel>
-  <programme start="20250704000000 +0200" stop="20250704133000 +0200" channel="Formula1QatarAirwaysBritishGPPractice1">
-    <title lang="it">Inizia  alle 13:30.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704133000 +0200" stop="20250704153000 +0200" channel="Formula1QatarAirwaysBritishGPPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula3QatarAirwaysBritishGPQualifying">
     <display-name>Formula 3 : Qatar Airways British GP - Qualifying</display-name>
   </channel>
