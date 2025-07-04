@@ -1,29 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroGermanyvsPoland">
-    <display-name>UEFA Women's Euro : Germany vs Poland</display-name>
+  <channel id="UEFAWomensEuroWalesvsNetherlands">
+    <display-name>UEFA Women's Euro : Wales vs Netherlands</display-name>
   </channel>
-  <programme start="20250704000000 +0200" stop="20250704210000 +0200" channel="UEFAWomensEuroGermanyvsPoland">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Germany vs Poland.</desc>
+  <programme start="20250705000000 +0200" stop="20250705180000 +0200" channel="UEFAWomensEuroWalesvsNetherlands">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">UEFA Women's Euro : Wales vs Netherlands.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250704210000 +0200" stop="20250704230000 +0200" channel="UEFAWomensEuroGermanyvsPoland">
+  <programme start="20250705180000 +0200" stop="20250705200000 +0200" channel="UEFAWomensEuroWalesvsNetherlands">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Germany vs Poland</desc>
+    <desc lang="it">UEFA Women's Euro : Wales vs Netherlands</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="FIFAClubWorldCupQuarterFinal1FluminensevsAlHilal">
-    <display-name>FIFA Club World Cup Quarter Final 1 : Fluminense vs Al-Hilal</display-name>
+  <channel id="UEFAWomensEuroFrancevsEngland">
+    <display-name>UEFA Women's Euro : France vs England</display-name>
   </channel>
-  <programme start="20250704000000 +0200" stop="20250704210000 +0200" channel="FIFAClubWorldCupQuarterFinal1FluminensevsAlHilal">
+  <programme start="20250705000000 +0200" stop="20250705210000 +0200" channel="UEFAWomensEuroFrancevsEngland">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup Quarter Final 1 : Fluminense vs Al-Hilal.</desc>
+    <desc lang="it">UEFA Women's Euro : France vs England.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250704210000 +0200" stop="20250704230000 +0200" channel="FIFAClubWorldCupQuarterFinal1FluminensevsAlHilal">
+  <programme start="20250705210000 +0200" stop="20250705230000 +0200" channel="UEFAWomensEuroFrancevsEngland">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup Quarter Final 1 : Fluminense vs Al-Hilal</desc>
+    <desc lang="it">UEFA Women's Euro : France vs England</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
+    <display-name>FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705220000 +0200" channel="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
+    <title lang="it">Inizia  alle 22:00.</title>
+    <desc lang="it">FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705220000 +0200" stop="20250706000000 +0200" channel="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <display-name>2025 Wimbledon Championships Early Round Coverage, Day 6</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705200000 +0200" stop="20250705220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250705000000 +0200" stop="20250705200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705200000 +0200" stop="20250705220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250705000000 +0200" stop="20250705200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705200000 +0200" stop="20250705220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula3QatarAirwaysBritishGPSprintRace">
+    <display-name>Formula 3 : Qatar Airways British GP -Sprint Race</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705083000 +0200" channel="Formula3QatarAirwaysBritishGPSprintRace">
+    <title lang="it">Inizia  alle 08:30.</title>
+    <desc lang="it">Formula 3 : Qatar Airways British GP -Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705083000 +0200" stop="20250705103000 +0200" channel="Formula3QatarAirwaysBritishGPSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Qatar Airways British GP -Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysBritishGPPractice3">
+    <display-name>Formula 1 : Qatar Airways British GP - Practice 3</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705123000 +0200" channel="Formula1QatarAirwaysBritishGPPractice3">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705123000 +0200" stop="20250705143000 +0200" channel="Formula1QatarAirwaysBritishGPPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2QatarAirwaysBritishGPSprintRace">
+    <display-name>Formula 2 : Qatar Airways British GP - Sprint Race</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705141500 +0200" channel="Formula2QatarAirwaysBritishGPSprintRace">
+    <title lang="it">Inizia  alle 14:15.</title>
+    <desc lang="it">Formula 2 : Qatar Airways British GP - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705141500 +0200" stop="20250705161500 +0200" channel="Formula2QatarAirwaysBritishGPSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Qatar Airways British GP - Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysBritishGPQualifying">
+    <display-name>Formula 1 : Qatar Airways British GP - Qualifying</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705160000 +0200" channel="Formula1QatarAirwaysBritishGPQualifying">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705160000 +0200" stop="20250705180000 +0200" channel="Formula1QatarAirwaysBritishGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="BrusselsFreestyleSemifinalsWorldCupWomen">
+    <display-name>Brussels | Freestyle | Semifinals World Cup | Women</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705154500 +0200" channel="BrusselsFreestyleSemifinalsWorldCupWomen">
+    <title lang="it">Inizia  alle 15:45.</title>
+    <desc lang="it">Brussels | Freestyle | Semifinals World Cup | Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705154500 +0200" stop="20250705174500 +0200" channel="BrusselsFreestyleSemifinalsWorldCupWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Brussels | Freestyle | Semifinals World Cup | Women</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="JumpingMonacoGlobalChampionsTourEvent8">
+    <display-name>Jumping | Monaco Global Champions Tour | Event 8</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705200000 +0200" channel="JumpingMonacoGlobalChampionsTourEvent8">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">Jumping | Monaco Global Champions Tour | Event 8.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705200000 +0200" stop="20250705220000 +0200" channel="JumpingMonacoGlobalChampionsTourEvent8">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Jumping | Monaco Global Champions Tour | Event 8</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <channel id="GrandPrixDivingMeetingBolzano2025Finals2ndday">
+    <display-name>Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day</display-name>
+  </channel>
+  <programme start="20250705000000 +0200" stop="20250705160000 +0200" channel="GrandPrixDivingMeetingBolzano2025Finals2ndday">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250705160000 +0200" stop="20250705180000 +0200" channel="GrandPrixDivingMeetingBolzano2025Finals2ndday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day</desc>
+    <category lang="it">Water Sports</category>
   </programme>
 </tv>
