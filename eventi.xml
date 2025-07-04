@@ -72,32 +72,6 @@
     <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula3QatarAirwaysBritishGPQualifying">
-    <display-name>Formula 3 : Qatar Airways British GP - Qualifying</display-name>
-  </channel>
-  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="Formula3QatarAirwaysBritishGPQualifying">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="Formula3QatarAirwaysBritishGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2QatarAirwaysBritishGPQualifying">
-    <display-name>Formula 2 : Qatar Airways British GP - Qualifying</display-name>
-  </channel>
-  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="Formula2QatarAirwaysBritishGPQualifying">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="Formula2QatarAirwaysBritishGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1QatarAirwaysBritishGPPractice2">
     <display-name>Formula 1 : Qatar Airways British GP - Practice 2</display-name>
   </channel>
@@ -110,19 +84,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 2</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipU20FranceU20vsWalesU20">
-    <display-name>World Championship U20 : France U20 vs Wales U20</display-name>
-  </channel>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="WorldChampionshipU20FranceU20vsWalesU20">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">World Championship U20 : France U20 vs Wales U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="WorldChampionshipU20FranceU20vsWalesU20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U20 : France U20 vs Wales U20</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="GrandPrixDivingMeetingBolzano2025Finals1stday">
     <display-name>Grand Prix Diving Meeting Bolzano 2025-Finals 1st day</display-name>
