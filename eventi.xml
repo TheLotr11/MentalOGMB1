@@ -26,37 +26,4 @@
     <desc lang="it">FIFA Club World Cup Quarter Final 1 : Fluminense vs Al-Hilal</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <display-name>2025 Wimbledon Championships Early Round Coverage, Day 5</display-name>
-  </channel>
-  <programme start="20250704000000 +0200" stop="20250704200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704200000 +0200" stop="20250704220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704200000 +0200" stop="20250704220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704200000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704200000 +0200" stop="20250704220000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5</desc>
-    <category lang="it">Tennis</category>
-  </programme>
 </tv>
