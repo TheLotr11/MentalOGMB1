@@ -1,29 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroFrancevsEngland">
-    <display-name>UEFA Women's Euro : France vs England</display-name>
+  <channel id="UEFAWomensEuroNorwayvsFinland">
+    <display-name>UEFA Women's Euro : Norway vs Finland</display-name>
   </channel>
-  <programme start="20250705000000 +0200" stop="20250705210000 +0200" channel="UEFAWomensEuroFrancevsEngland">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : France vs England.</desc>
+  <programme start="20250706000000 +0200" stop="20250706180000 +0200" channel="UEFAWomensEuroNorwayvsFinland">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">UEFA Women's Euro : Norway vs Finland.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250705210000 +0200" stop="20250705230000 +0200" channel="UEFAWomensEuroFrancevsEngland">
+  <programme start="20250706180000 +0200" stop="20250706200000 +0200" channel="UEFAWomensEuroNorwayvsFinland">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : France vs England</desc>
+    <desc lang="it">UEFA Women's Euro : Norway vs Finland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
-    <display-name>FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund</display-name>
+  <channel id="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <display-name>2025 Wimbledon Championships Early Round Coverage, Day 7</display-name>
   </channel>
-  <programme start="20250705000000 +0200" stop="20250705220000 +0200" channel="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund.</desc>
+  <programme start="20250706000000 +0200" stop="20250706100000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250705220000 +0200" stop="20250706000000 +0200" channel="FIFAClubWorldCupQuarterFinal4RealMadridvsBorussiaDortmund">
+  <programme start="20250706100000 +0200" stop="20250706120000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250706000000 +0200" stop="20250706100000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706100000 +0200" stop="20250706120000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250706000000 +0200" stop="20250706100000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706100000 +0200" stop="20250706120000 +0200" channel="2025WimbledonChampionshipsEarlyRoundCoverageDay7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 7</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula3QatarAirwaysBritishGPRace">
+    <display-name>Formula 3 : Qatar Airways British GP - Race</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706103000 +0200" channel="Formula3QatarAirwaysBritishGPRace">
+    <title lang="it">Inizia  alle 10:30.</title>
+    <desc lang="it">Formula 3 : Qatar Airways British GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706103000 +0200" stop="20250706123000 +0200" channel="Formula3QatarAirwaysBritishGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Qatar Airways British GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2QatarAirwaysBritishGPRace">
+    <display-name>Formula 2 : Qatar Airways British GP - Race</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706123000 +0200" channel="Formula2QatarAirwaysBritishGPRace">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 2 : Qatar Airways British GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706123000 +0200" stop="20250706143000 +0200" channel="Formula2QatarAirwaysBritishGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Qatar Airways British GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysBritishGPGrandPrixSunday">
+    <display-name>Formula 1 : Qatar Airways British GP - Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706150000 +0200" channel="Formula1QatarAirwaysBritishGPGrandPrixSunday">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706150000 +0200" stop="20250706170000 +0200" channel="Formula1QatarAirwaysBritishGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysBritishGPRace">
+    <display-name>Formula 1 : Qatar Airways British GP - Race</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706160000 +0200" channel="Formula1QatarAirwaysBritishGPRace">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706160000 +0200" stop="20250706180000 +0200" channel="Formula1QatarAirwaysBritishGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Qatar Airways British GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
+    <display-name>Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706124500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
+    <title lang="it">Inizia  alle 12:45.</title>
+    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706124500 +0200" stop="20250706144500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
+    <display-name>UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706140000 +0200" channel="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706140000 +0200" stop="20250706160000 +0200" channel="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="PremierPadelBordeauxT2025WomensFinal">
+    <display-name>Premier Padel. Bordeaux (T2025): Women's Final</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706140000 +0200" channel="PremierPadelBordeauxT2025WomensFinal">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706140000 +0200" stop="20250706160000 +0200" channel="PremierPadelBordeauxT2025WomensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Final</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <channel id="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
+    <display-name>Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day</display-name>
+  </channel>
+  <programme start="20250706000000 +0200" stop="20250706160000 +0200" channel="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250706160000 +0200" stop="20250706180000 +0200" channel="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day</desc>
+    <category lang="it">Water Sports</category>
   </programme>
 </tv>
