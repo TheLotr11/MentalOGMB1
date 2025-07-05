@@ -72,32 +72,6 @@
     <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula1QatarAirwaysBritishGPQualifying">
-    <display-name>Formula 1 : Qatar Airways British GP - Qualifying</display-name>
-  </channel>
-  <programme start="20250705000000 +0200" stop="20250705160000 +0200" channel="Formula1QatarAirwaysBritishGPQualifying">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250705160000 +0200" stop="20250705180000 +0200" channel="Formula1QatarAirwaysBritishGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="BrusselsFreestyleSemifinalsWorldCupWomen">
-    <display-name>Brussels | Freestyle | Semifinals World Cup | Women</display-name>
-  </channel>
-  <programme start="20250705000000 +0200" stop="20250705154500 +0200" channel="BrusselsFreestyleSemifinalsWorldCupWomen">
-    <title lang="it">Inizia  alle 15:45.</title>
-    <desc lang="it">Brussels | Freestyle | Semifinals World Cup | Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250705154500 +0200" stop="20250705174500 +0200" channel="BrusselsFreestyleSemifinalsWorldCupWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Brussels | Freestyle | Semifinals World Cup | Women</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="JumpingMonacoGlobalChampionsTourEvent8">
     <display-name>Jumping | Monaco Global Champions Tour | Event 8</display-name>
   </channel>
@@ -110,18 +84,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Jumping | Monaco Global Champions Tour | Event 8</desc>
     <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="GrandPrixDivingMeetingBolzano2025Finals2ndday">
-    <display-name>Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day</display-name>
-  </channel>
-  <programme start="20250705000000 +0200" stop="20250705160000 +0200" channel="GrandPrixDivingMeetingBolzano2025Finals2ndday">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250705160000 +0200" stop="20250705180000 +0200" channel="GrandPrixDivingMeetingBolzano2025Finals2ndday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day</desc>
-    <category lang="it">Water Sports</category>
   </programme>
 </tv>
