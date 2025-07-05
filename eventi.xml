@@ -72,19 +72,6 @@
     <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 6</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula3QatarAirwaysBritishGPSprintRace">
-    <display-name>Formula 3 : Qatar Airways British GP -Sprint Race</display-name>
-  </channel>
-  <programme start="20250705000000 +0200" stop="20250705083000 +0200" channel="Formula3QatarAirwaysBritishGPSprintRace">
-    <title lang="it">Inizia  alle 08:30.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP -Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250705083000 +0200" stop="20250705103000 +0200" channel="Formula3QatarAirwaysBritishGPSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP -Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1QatarAirwaysBritishGPPractice3">
     <display-name>Formula 1 : Qatar Airways British GP - Practice 3</display-name>
   </channel>
