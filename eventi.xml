@@ -13,43 +13,4 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Finland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1QatarAirwaysBritishGPGrandPrixSunday">
-    <display-name>Formula 1 : Qatar Airways British GP - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706150000 +0200" channel="Formula1QatarAirwaysBritishGPGrandPrixSunday">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706150000 +0200" stop="20250706170000 +0200" channel="Formula1QatarAirwaysBritishGPGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula1QatarAirwaysBritishGPRace">
-    <display-name>Formula 1 : Qatar Airways British GP - Race</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706160000 +0200" channel="Formula1QatarAirwaysBritishGPRace">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706160000 +0200" stop="20250706180000 +0200" channel="Formula1QatarAirwaysBritishGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Qatar Airways British GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
-    <display-name>Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706160000 +0200" channel="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706160000 +0200" stop="20250706180000 +0200" channel="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
 </tv>
