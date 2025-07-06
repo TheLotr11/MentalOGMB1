@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroNorwayvsFinland">
-    <display-name>UEFA Women's Euro : Norway vs Finland</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706180000 +0200" channel="UEFAWomensEuroNorwayvsFinland">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">UEFA Women's Euro : Norway vs Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706180000 +0200" stop="20250706200000 +0200" channel="UEFAWomensEuroNorwayvsFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Norway vs Finland</desc>
-    <category lang="it">Soccer</category>
-  </programme>
 </tv>
