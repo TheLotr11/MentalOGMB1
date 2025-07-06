@@ -39,45 +39,6 @@
     <desc lang="it">Formula 1 : Qatar Airways British GP - Race</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <display-name>Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706124500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706124500 +0200" stop="20250706144500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
-    <display-name>UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706140000 +0200" channel="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706140000 +0200" stop="20250706160000 +0200" channel="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="PremierPadelBordeauxT2025WomensFinal">
-    <display-name>Premier Padel. Bordeaux (T2025): Women's Final</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706140000 +0200" channel="PremierPadelBordeauxT2025WomensFinal">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706140000 +0200" stop="20250706160000 +0200" channel="PremierPadelBordeauxT2025WomensFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Bordeaux (T2025): Women's Final</desc>
-    <category lang="it">Squash</category>
-  </programme>
   <channel id="GrandPrixDiving2025MeetingBolzanoFinals3rdday">
     <display-name>Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day</display-name>
   </channel>
