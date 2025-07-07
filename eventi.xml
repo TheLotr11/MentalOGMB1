@@ -1,16 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroPortugalvsItaly">
-    <display-name>UEFA Women's Euro : Portugal vs Italy</display-name>
+  <channel id="UEFAWomensEuroGermanyvsDenmark">
+    <display-name>UEFA Women's Euro : Germany vs Denmark</display-name>
   </channel>
-  <programme start="20250707000000 +0200" stop="20250707210000 +0200" channel="UEFAWomensEuroPortugalvsItaly">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Portugal vs Italy.</desc>
+  <programme start="20250708000000 +0200" stop="20250708180000 +0200" channel="UEFAWomensEuroGermanyvsDenmark">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">UEFA Women's Euro : Germany vs Denmark.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250707210000 +0200" stop="20250707230000 +0200" channel="UEFAWomensEuroPortugalvsItaly">
+  <programme start="20250708180000 +0200" stop="20250708200000 +0200" channel="UEFAWomensEuroGermanyvsDenmark">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Portugal vs Italy</desc>
+    <desc lang="it">UEFA Women's Euro : Germany vs Denmark</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAWomensEuroPolandvsSweden">
+    <display-name>UEFA Women's Euro : Poland vs Sweden</display-name>
+  </channel>
+  <programme start="20250708000000 +0200" stop="20250708210000 +0200" channel="UEFAWomensEuroPolandvsSweden">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Poland vs Sweden.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708210000 +0200" stop="20250708230000 +0200" channel="UEFAWomensEuroPolandvsSweden">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Women's Euro : Poland vs Sweden</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupFluminensevsChelsea">
+    <display-name>FIFA Club World Cup : Fluminense vs Chelsea</display-name>
+  </channel>
+  <programme start="20250708000000 +0200" stop="20250708210000 +0200" channel="FIFAClubWorldCupFluminensevsChelsea">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : Fluminense vs Chelsea.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708210000 +0200" stop="20250708230000 +0200" channel="FIFAClubWorldCupFluminensevsChelsea">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Fluminense vs Chelsea</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <display-name>2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals</display-name>
+  </channel>
+  <programme start="20250708000000 +0200" stop="20250708100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708100000 +0200" stop="20250708120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250708000000 +0200" stop="20250708100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708100000 +0200" stop="20250708120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250708000000 +0200" stop="20250708100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708100000 +0200" stop="20250708120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WorldCup2025LonatodelGardaWomensSkeet">
+    <display-name>World Cup 2025-Lonato del Garda: Women's Skeet</display-name>
+  </channel>
+  <programme start="20250708000000 +0200" stop="20250708144500 +0200" channel="WorldCup2025LonatodelGardaWomensSkeet">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">World Cup 2025-Lonato del Garda: Women's Skeet.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250708144500 +0200" stop="20250708164500 +0200" channel="WorldCup2025LonatodelGardaWomensSkeet">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup 2025-Lonato del Garda: Women's Skeet</desc>
+    <category lang="it">Shooting</category>
   </programme>
 </tv>
