@@ -832,7 +832,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "01:52",
+                "time": "02:37",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
@@ -3453,7 +3453,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "01:52",
+                "time": "02:37",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": [
                     {
@@ -4651,6 +4651,36 @@
                 ]
             },
             {
+                "time": "11:00",
+                "event": "Champions League : Jack Lisowski vs Ashley Carty",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Champions League : Pang Junxu vs Dean Young",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Champions League : Gong Chenzhi vs Ross Muir",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Champions League : Oliver Lines vs Jiang Jun",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Champions League : Gong Chenzhi vs Ashley Carty",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Champions League : Oliver Lines vs Dean Young",
+                "channels": []
+            },
+            {
                 "time": "16:00",
                 "event": "Championship League Snooker : Pang Junxu vs Jiang Jun",
                 "channels": [
@@ -4663,6 +4693,36 @@
                         "channel_id": "589"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Champions League : Jack Lisowski vs Ross Muir",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Champions League : Pang Junxu vs Jiang Jun",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions League : Jiang Jun vs Dean Young",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions League : Ross Muir vs Ashley Carty",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Jack Lisowski vs Gong Chenzhi",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Pang Junxu vs Oliver Lines",
+                "channels": []
             }
         ],
         "Baseball</span>": [
