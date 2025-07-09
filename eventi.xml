@@ -39,32 +39,6 @@
     <desc lang="it">FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="UCIWorldTourStage3TourdeFrance">
-    <display-name>UCI World Tour Stage 3 - Tour de France</display-name>
-  </channel>
-  <programme start="20250709000000 +0200" stop="20250709150000 +0200" channel="UCIWorldTourStage3TourdeFrance">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">UCI World Tour Stage 3 - Tour de France.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709150000 +0200" stop="20250709170000 +0200" channel="UCIWorldTourStage3TourdeFrance">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI World Tour Stage 3 - Tour de France</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldChampionshipU20SouthAfricaU20vsScotlandU20">
-    <display-name>World Championship U20 : South Africa U20 vs Scotland U20</display-name>
-  </channel>
-  <programme start="20250709000000 +0200" stop="20250709153000 +0200" channel="WorldChampionshipU20SouthAfricaU20vsScotlandU20">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">World Championship U20 : South Africa U20 vs Scotland U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709153000 +0200" stop="20250709173000 +0200" channel="WorldChampionshipU20SouthAfricaU20vsScotlandU20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U20 : South Africa U20 vs Scotland U20</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="WorldChampionshipU20NewZealandU20vsIrelandU20">
     <display-name>World Championship U20 : New Zealand U20 vs Ireland U20</display-name>
   </channel>
