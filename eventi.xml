@@ -26,17 +26,4 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Iceland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="TourdeFranceStage6MasculineHilly201km3550m">
-    <display-name>Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m</display-name>
-  </channel>
-  <programme start="20250710000000 +0200" stop="20250710121500 +0200" channel="TourdeFranceStage6MasculineHilly201km3550m">
-    <title lang="it">Inizia  alle 12:15.</title>
-    <desc lang="it">Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250710121500 +0200" stop="20250710141500 +0200" channel="TourdeFranceStage6MasculineHilly201km3550m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
