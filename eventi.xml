@@ -13,65 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Italy vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <display-name>2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals</display-name>
-  </channel>
-  <programme start="20250711000000 +0200" stop="20250711100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711100000 +0200" stop="20250711120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250711000000 +0200" stop="20250711100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711100000 +0200" stop="20250711120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250711000000 +0200" stop="20250711100000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711100000 +0200" stop="20250711120000 +0200" channel="2025WimbledonChampionshipsGentlemensandLadiesSinglesDoublesSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Moto3GermanGrandPrixFreePractice">
-    <display-name>Moto3 : German Grand Prix Free Practice</display-name>
-  </channel>
-  <programme start="20250711000000 +0200" stop="20250711085500 +0200" channel="Moto3GermanGrandPrixFreePractice">
-    <title lang="it">Inizia  alle 08:55.</title>
-    <desc lang="it">Moto3 : German Grand Prix Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711085500 +0200" stop="20250711105500 +0200" channel="Moto3GermanGrandPrixFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : German Grand Prix Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GermanGrandPrixFreePractice">
-    <display-name>Moto2 : German Grand Prix Free Practice</display-name>
-  </channel>
-  <programme start="20250711000000 +0200" stop="20250711094500 +0200" channel="Moto2GermanGrandPrixFreePractice">
-    <title lang="it">Inizia  alle 09:45.</title>
-    <desc lang="it">Moto2 : German Grand Prix Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711094500 +0200" stop="20250711114500 +0200" channel="Moto2GermanGrandPrixFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : German Grand Prix Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGermanGrandPrixFreePractice">
     <display-name>MotoGP : German Grand Prix Free Practice</display-name>
   </channel>
