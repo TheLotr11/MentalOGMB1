@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Italy vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPGermanGrandPrixFreePractice1">
-    <display-name>MotoGP : German Grand Prix Free Practice 1</display-name>
-  </channel>
-  <programme start="20250711000000 +0200" stop="20250711150000 +0200" channel="MotoGPGermanGrandPrixFreePractice1">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711150000 +0200" stop="20250711170000 +0200" channel="MotoGPGermanGrandPrixFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="UCICrosscountryShortTrackWorldCupWomenElitePalArinsal">
     <display-name>UCI Cross-country Short Track World Cup | Women Elite | Pal Arinsal</display-name>
   </channel>
