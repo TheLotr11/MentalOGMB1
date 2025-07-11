@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Italy vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPGermanGrandPrixFreePractice">
-    <display-name>MotoGP : German Grand Prix Free Practice</display-name>
-  </channel>
-  <programme start="20250711000000 +0200" stop="20250711104000 +0200" channel="MotoGPGermanGrandPrixFreePractice">
-    <title lang="it">Inizia  alle 10:40.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250711104000 +0200" stop="20250711124000 +0200" channel="MotoGPGermanGrandPrixFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GermanGrandPrixFreePractice1">
     <display-name>Moto3 : German Grand Prix Free Practice 1</display-name>
   </channel>
