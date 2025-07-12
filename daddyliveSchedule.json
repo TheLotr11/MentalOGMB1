@@ -4324,6 +4324,176 @@
                 ]
             },
             {
+                "time": "04:00",
+                "event": "Australia - NPL - NSW - North : Adamstown Rosebud vs Newcastle Olympic",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "Australia - NPL - Tasmania : South Hobart vs Riverside Olympic",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "Australia - NPL - NSW - North : Weston Workers Bears vs Broadmeadow Magic",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "Australia - NPL - NSW - North : Cooks Hill United vs Edgeworth Eagles",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "Australia - NPL - Tasmania : Devonport City Strikers vs Clarence Zebras",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Australia - NPL (F) - Victoria : Brunswick Juventus (F) vs South Melbourne (F)",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Australia - NPL (F) - Victoria : Bulleen Lions (F) vs Essendon Royals SC (F)",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Australia - NPL - NSW : Sutherland Sharks vs NWS Spirit",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Australia - NPL - Tasmania : Kingborough Lions United vs Launceston United",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Australia - NPL - NSW - North : Maitland vs Charlestown Azzurri",
+                "channels": []
+            },
+            {
+                "time": "06:45",
+                "event": "Australia - NPL - Tasmania : Glenorchy Knights vs Launceston City",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Armadale SC vs Bayswater City",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Floreat Athena vs Perth SC",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Perth Glory Tineret vs Perth RedStar",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Sorrento vs Fremantle City",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Stirling Macedonia vs Balcatta Etna",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Australia - NPL - West : Western Knights vs Olympic Kingsway",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "Australia - NPL - Queensland : Gold Coast Knights vs Peninsula Power",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Australia - NPL - Capital : Canberra Croatia vs Monaro Panthers",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "China - League 2 - South : Guangdong Mingtu vs Wenzhou Professional FC",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "China - League 2 - North : Xi An Ronghai vs Taian Tiankuang",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "Australia - NPL - Queensland : Wynnum Wolves vs Olympic FC",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Azul Claro Numazu vs Kagoshima United",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Blaublitz Akita vs Roasso Kumamoto",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : FC Osaka vs Tegevajaro Miyazaki",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Giravanz Kitakyushu vs Tochigi City",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "China - League 2 - South : Guangxi Hengchen vs Ganzhou Ruishi FC",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Iwaki vs V-Varen Nagasaki",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Kamatamare Sanuki vs Tochigi",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Kochi United vs Zwiegen Kanazawa",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Matsumoto Yamaga vs Nara Club",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Mito Hollyhock vs Kataller Toyama",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J3 League : Sagamihara vs Fukushima United",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Japan - J2 League : Imabari vs Ehime",
+                "channels": []
+            },
+            {
                 "time": "09:00",
                 "event": "Club Friendly : Primorje vs Dinamo Zagreb",
                 "channels": [
@@ -4356,6 +4526,61 @@
             {
                 "time": "09:30",
                 "event": "Club Friendly : Stockport County vs Bristol Rovers",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Japan - J3 League : Vanraure Hachnohe vs Gifu",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Japan - J2 League : Ventforet Kofu vs Omiya Ardija",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Fujieda MYFC vs Vegalta Sendai",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Montedio Yamagata vs JEF United Chiba",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Interclub friendly : Odra Opole vs SFC Opava",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Renofa Yamaguchi vs Tokushima Vortis",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J3 League : Ryukyu vs Gainare Tottori",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J2 League : Sagan Tosu vs Oita Trinita",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Suwon Bluewings vs Cheongju",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Japan - J3 League : Thespa Gunma vs Nagano Parceiro",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "China - League 1 : Yanbian Longding vs Guandong GZ Power",
                 "channels": []
             },
             {
@@ -4418,6 +4643,11 @@
                 ]
             },
             {
+                "time": "10:30",
+                "event": "Japan - J2 League : Jubilo Iwata vs Hokkaido Consadole Sapporo",
+                "channels": []
+            },
+            {
                 "time": "11:00",
                 "event": "Club Friendly : Greuther Furth vs Hallescher",
                 "channels": []
@@ -4425,6 +4655,51 @@
             {
                 "time": "11:00",
                 "event": "Club Friendly : Viktoria Plzen vs Bochum",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "China - League 1 : Liaoning Tieren vs Guangxi Pingguo Haliao",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "China - League 1 : Shaanxi Union vs Suzhou Dongwu",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "China - League 2 - North : Shandong Taishan B vs Hangzhou Linping Wuyue",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 1 : Foshan Nanshi vs Shenzhen Juniors",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 2 - North : Jiangxi Beidamen vs Lanzhou Longyuan",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Interclub friendly : Kaiserslautern vs Notts County",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 2 - North : Nantong Haimen Codion vs Beijing Institute Technology",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Estonia - Meistriliiga : Parnu Vaprus vs Narva Trans",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 1 : Qingdao Red Lions vs Chongqing Tonglianglong",
                 "channels": []
             },
             {
@@ -4702,6 +4977,61 @@
             {
                 "time": "18:00",
                 "event": "Uruguay - Segunda Division : Fenix vs Rentistas",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Paulista U20 - Gr.3 : Bandeirante SP U20 vs Sao Paulo U20",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Cup Paulista - Gr.2 : Comercial vs Uniao Sao Joao",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Paulista U20 - Gr.2 : Ituano U20 vs Palmeiras SP U20",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Cup Paulista - Gr.3 : Paulista Jundiai SP vs XV de Piracicaba",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Cup Paulista - Gr.3 : Primavera SP vs Sao Bento SP",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Brazil - Cup Paulista - Gr.4 : Sao Caetano vs Taubate",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Argentina - Primera Nacional - Gr.B : Talleres Remedios Escalada vs San Telmo",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Argentina - Primera Nacional - Gr.A : Tristan Suarez vs CA Guemes",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Argentina - Primera Nacional - Gr.B : Deportivo Moron vs Agropecuario Argentino",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Argentina - Primera Nacional - Gr.B : CA Temperley vs Central Norte Salta",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Argentina - Primera Nacional - Gr.B : Defensores Unidos vs Gimnasia Esgrima Mendoza",
                 "channels": []
             },
             {

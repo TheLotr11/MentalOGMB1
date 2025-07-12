@@ -157,19 +157,6 @@
     <desc lang="it">MotoGP : German Grand Prix Free Qualifying</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="UFCFightNightMainCardDerrickLewisvsTallisonTeixeira">
-    <display-name>UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira</display-name>
-  </channel>
-  <programme start="20250712000000 +0200" stop="20250712030000 +0200" channel="UFCFightNightMainCardDerrickLewisvsTallisonTeixeira">
-    <title lang="it">Inizia  alle 03:00.</title>
-    <desc lang="it">UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250712030000 +0200" stop="20250712050000 +0200" channel="UFCFightNightMainCardDerrickLewisvsTallisonTeixeira">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <channel id="WorldCupChamonixMensWomensSpeedFinal">
     <display-name>World Cup | Chamonix Men's & Women's Speed | Final</display-name>
   </channel>
