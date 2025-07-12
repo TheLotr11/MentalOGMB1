@@ -46,19 +46,6 @@
     <desc lang="it">2025 Wimbledon Championships Women Doubles Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGermanGrandPrixFreeQualifying">
-    <display-name>MotoGP : German Grand Prix Free Qualifying</display-name>
-  </channel>
-  <programme start="20250712000000 +0200" stop="20250712150000 +0200" channel="MotoGPGermanGrandPrixFreeQualifying">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250712150000 +0200" stop="20250712170000 +0200" channel="MotoGPGermanGrandPrixFreeQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Free Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="WorldCupChamonixMensWomensSpeedFinal">
     <display-name>World Cup | Chamonix Men's & Women's Speed | Final</display-name>
   </channel>
@@ -71,19 +58,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup | Chamonix Men's & Women's Speed | Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="UCIDownhillWorldCupMenElitePalArinsal">
-    <display-name>UCI Downhill World Cup | Men Elite | Pal Arinsal</display-name>
-  </channel>
-  <programme start="20250712000000 +0200" stop="20250712151500 +0200" channel="UCIDownhillWorldCupMenElitePalArinsal">
-    <title lang="it">Inizia  alle 15:15.</title>
-    <desc lang="it">UCI Downhill World Cup | Men Elite | Pal Arinsal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250712151500 +0200" stop="20250712171500 +0200" channel="UCIDownhillWorldCupMenElitePalArinsal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Downhill World Cup | Men Elite | Pal Arinsal</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="NationsLeagueWomenTurkeyWvsItalyW">
     <display-name>Nations League Women : Turkey W vs Italy W</display-name>
