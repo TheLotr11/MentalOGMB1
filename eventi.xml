@@ -1,29 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroSwedenvsGermany">
-    <display-name>UEFA Women's Euro : Sweden vs Germany</display-name>
+  <channel id="UEFAWomensEuroNetherlandsvsFrance">
+    <display-name>UEFA Women's Euro : Netherlands vs France</display-name>
   </channel>
-  <programme start="20250712000000 +0200" stop="20250712210000 +0200" channel="UEFAWomensEuroSwedenvsGermany">
+  <programme start="20250713000000 +0200" stop="20250713210000 +0200" channel="UEFAWomensEuroNetherlandsvsFrance">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Sweden vs Germany.</desc>
+    <desc lang="it">UEFA Women's Euro : Netherlands vs France.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250712210000 +0200" stop="20250712230000 +0200" channel="UEFAWomensEuroSwedenvsGermany">
+  <programme start="20250713210000 +0200" stop="20250713230000 +0200" channel="UEFAWomensEuroNetherlandsvsFrance">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Sweden vs Germany</desc>
+    <desc lang="it">UEFA Women's Euro : Netherlands vs France</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WorldCupChamonixMensWomensSpeedFinal">
-    <display-name>World Cup | Chamonix Men's & Women's Speed | Final</display-name>
+  <channel id="FIFAClubWorldCupFinalChelseavsPSG">
+    <display-name>FIFA Club World Cup Final : Chelsea vs PSG</display-name>
   </channel>
-  <programme start="20250712000000 +0200" stop="20250712210000 +0200" channel="WorldCupChamonixMensWomensSpeedFinal">
+  <programme start="20250713000000 +0200" stop="20250713210000 +0200" channel="FIFAClubWorldCupFinalChelseavsPSG">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">World Cup | Chamonix Men's & Women's Speed | Final.</desc>
+    <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250712210000 +0200" stop="20250712230000 +0200" channel="WorldCupChamonixMensWomensSpeedFinal">
+  <programme start="20250713210000 +0200" stop="20250713230000 +0200" channel="FIFAClubWorldCupFinalChelseavsPSG">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Chamonix Men's & Women's Speed | Final</desc>
+    <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <display-name>2025 Wimbledon Championships Ladies Doubles Final</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <display-name>2025 Wimbledon Championships Gentlemen's Singles Final</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="2025WimbledonChampionshipsGentlemensSinglesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MotoGPGermanGrandPrixWarmUp">
+    <display-name>MotoGP : German Grand Prix Warm Up</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713093000 +0200" channel="MotoGPGermanGrandPrixWarmUp">
+    <title lang="it">Inizia  alle 09:30.</title>
+    <desc lang="it">MotoGP : German Grand Prix Warm Up.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713093000 +0200" stop="20250713113000 +0200" channel="MotoGPGermanGrandPrixWarmUp">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : German Grand Prix Warm Up</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3GermanGrandPrixRace">
+    <display-name>Moto3 : German Grand Prix Race</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713104500 +0200" channel="Moto3GermanGrandPrixRace">
+    <title lang="it">Inizia  alle 10:45.</title>
+    <desc lang="it">Moto3 : German Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713104500 +0200" stop="20250713124500 +0200" channel="Moto3GermanGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : German Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2GermanGrandPrixRace">
+    <display-name>Moto2 : German Grand Prix Race</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713120000 +0200" channel="Moto2GermanGrandPrixRace">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">Moto2 : German Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713120000 +0200" stop="20250713140000 +0200" channel="Moto2GermanGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : German Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPGermanGrandPrixRace">
+    <display-name>MotoGP : German Grand Prix Race</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="MotoGPGermanGrandPrixRace">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="MotoGPGermanGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : German Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="IFSCWorldCupChamonixDifficultyMFSemifinal">
+    <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713100000 +0200" channel="IFSCWorldCupChamonixDifficultyMFSemifinal">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713100000 +0200" stop="20250713120000 +0200" channel="IFSCWorldCupChamonixDifficultyMFSemifinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final</desc>
     <category lang="it">Climbing</category>
+  </programme>
+  <channel id="IFSCWorldCupChamonixDifficultyMFFinal">
+    <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Final</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713202500 +0200" channel="IFSCWorldCupChamonixDifficultyMFFinal">
+    <title lang="it">Inizia  alle 20:25.</title>
+    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713202500 +0200" stop="20250713222500 +0200" channel="IFSCWorldCupChamonixDifficultyMFFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
+    <display-name>UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="WorldChampionshipWomenSpainWvsFranceW">
+    <display-name>World Championship Women : Spain W vs France W</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713100000 +0200" channel="WorldChampionshipWomenSpainWvsFranceW">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">World Championship Women : Spain W vs France W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713100000 +0200" stop="20250713120000 +0200" channel="WorldChampionshipWomenSpainWvsFranceW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Women : Spain W vs France W</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldChampionshipWomenAustraliaWvsItalyW">
+    <display-name>World Championship Women : Australia W vs Italy W</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713113000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
+    <title lang="it">Inizia  alle 11:30.</title>
+    <desc lang="it">World Championship Women : Australia W vs Italy W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713113000 +0200" stop="20250713133000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Women : Australia W vs Italy W</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713113000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
+    <title lang="it">Inizia  alle 11:30.</title>
+    <desc lang="it">World Championship Women : Australia W vs Italy W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713113000 +0200" stop="20250713133000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Women : Australia W vs Italy W</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldChampionshipWomenNetherlandsWvsUSAW">
+    <display-name>World Championship Women : Netherlands W vs USA W</display-name>
+  </channel>
+  <programme start="20250713000000 +0200" stop="20250713144500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">World Championship Women : Netherlands W vs USA W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713144500 +0200" stop="20250713164500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Women : Netherlands W vs USA W</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <programme start="20250713000000 +0200" stop="20250713144500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">World Championship Women : Netherlands W vs USA W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250713144500 +0200" stop="20250713164500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Women : Netherlands W vs USA W</desc>
+    <category lang="it">Water polo</category>
   </programme>
 </tv>
