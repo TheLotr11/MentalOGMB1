@@ -26,17 +26,4 @@
     <desc lang="it">World Cup | Chamonix Men's & Women's Speed | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="NationsLeagueWomenTurkeyWvsItalyW">
-    <display-name>Nations League Women : Turkey W vs Italy W</display-name>
-  </channel>
-  <programme start="20250712000000 +0200" stop="20250712190000 +0200" channel="NationsLeagueWomenTurkeyWvsItalyW">
-    <title lang="it">Inizia  alle 19:00.</title>
-    <desc lang="it">Nations League Women : Turkey W vs Italy W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250712190000 +0200" stop="20250712210000 +0200" channel="NationsLeagueWomenTurkeyWvsItalyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Nations League Women : Turkey W vs Italy W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
 </tv>
