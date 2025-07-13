@@ -1,42 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroNetherlandsvsFrance">
-    <display-name>UEFA Women's Euro : Netherlands vs France</display-name>
+  <channel id="PrimieroDolomitiMarathon2025SanMartinodiCastrozzaPrimiero">
+    <display-name>Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</display-name>
   </channel>
-  <programme start="20250713000000 +0200" stop="20250713210000 +0200" channel="UEFAWomensEuroNetherlandsvsFrance">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Netherlands vs France.</desc>
+  <programme start="20250714000000 +0200" stop="20250714170000 +0200" channel="PrimieroDolomitiMarathon2025SanMartinodiCastrozzaPrimiero">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250713210000 +0200" stop="20250713230000 +0200" channel="UEFAWomensEuroNetherlandsvsFrance">
+  <programme start="20250714170000 +0200" stop="20250714190000 +0200" channel="PrimieroDolomitiMarathon2025SanMartinodiCastrozzaPrimiero">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Netherlands vs France</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</desc>
+    <category lang="it">Athletics</category>
   </programme>
-  <channel id="FIFAClubWorldCupFinalChelseavsPSG">
-    <display-name>FIFA Club World Cup Final : Chelsea vs PSG</display-name>
+  <channel id="WorldChampionshipU20FranceU20vsNewZealandU20">
+    <display-name>World Championship U20 : France U20 vs New Zealand U20</display-name>
   </channel>
-  <programme start="20250713000000 +0200" stop="20250713210000 +0200" channel="FIFAClubWorldCupFinalChelseavsPSG">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG.</desc>
+  <programme start="20250714000000 +0200" stop="20250714180000 +0200" channel="WorldChampionshipU20FranceU20vsNewZealandU20">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">World Championship U20 : France U20 vs New Zealand U20.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250713210000 +0200" stop="20250713230000 +0200" channel="FIFAClubWorldCupFinalChelseavsPSG">
+  <programme start="20250714180000 +0200" stop="20250714200000 +0200" channel="WorldChampionshipU20FranceU20vsNewZealandU20">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">World Championship U20 : France U20 vs New Zealand U20</desc>
+    <category lang="it">Rugby Union</category>
   </programme>
-  <channel id="IFSCWorldCupChamonixDifficultyMFFinal">
-    <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Final</display-name>
+  <channel id="WorldChampionshipU20SouthAfricaU20vsArgentinaU20">
+    <display-name>World Championship U20 : South Africa U20 vs Argentina U20</display-name>
   </channel>
-  <programme start="20250713000000 +0200" stop="20250713202500 +0200" channel="IFSCWorldCupChamonixDifficultyMFFinal">
-    <title lang="it">Inizia  alle 20:25.</title>
-    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final.</desc>
+  <programme start="20250714000000 +0200" stop="20250714203000 +0200" channel="WorldChampionshipU20SouthAfricaU20vsArgentinaU20">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">World Championship U20 : South Africa U20 vs Argentina U20.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250713202500 +0200" stop="20250713222500 +0200" channel="IFSCWorldCupChamonixDifficultyMFFinal">
+  <programme start="20250714203000 +0200" stop="20250714223000 +0200" channel="WorldChampionshipU20SouthAfricaU20vsArgentinaU20">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final</desc>
-    <category lang="it">Climbing</category>
+    <desc lang="it">World Championship U20 : South Africa U20 vs Argentina U20</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+  <channel id="WorldChampionshipAustraliavsSpain">
+    <display-name>World Championship : Australia vs Spain</display-name>
+  </channel>
+  <programme start="20250714000000 +0200" stop="20250714100000 +0200" channel="WorldChampionshipAustraliavsSpain">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">World Championship : Australia vs Spain.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250714100000 +0200" stop="20250714120000 +0200" channel="WorldChampionshipAustraliavsSpain">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship : Australia vs Spain</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldChampionshipCroatiavsMontenegro">
+    <display-name>World Championship : Croatia vs Montenegro</display-name>
+  </channel>
+  <programme start="20250714000000 +0200" stop="20250714113000 +0200" channel="WorldChampionshipCroatiavsMontenegro">
+    <title lang="it">Inizia  alle 11:30.</title>
+    <desc lang="it">World Championship : Croatia vs Montenegro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250714113000 +0200" stop="20250714133000 +0200" channel="WorldChampionshipCroatiavsMontenegro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship : Croatia vs Montenegro</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldChampionshipItalyvsSerbia">
+    <display-name>World Championship : Italy vs Serbia</display-name>
+  </channel>
+  <programme start="20250714000000 +0200" stop="20250714144500 +0200" channel="WorldChampionshipItalyvsSerbia">
+    <title lang="it">Inizia  alle 14:45.</title>
+    <desc lang="it">World Championship : Italy vs Serbia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250714144500 +0200" stop="20250714164500 +0200" channel="WorldChampionshipItalyvsSerbia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship : Italy vs Serbia</desc>
+    <category lang="it">Water polo</category>
   </programme>
 </tv>
