@@ -92,32 +92,6 @@
     <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GermanGrandPrixRace">
-    <display-name>Moto3 : German Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713104500 +0200" channel="Moto3GermanGrandPrixRace">
-    <title lang="it">Inizia  alle 10:45.</title>
-    <desc lang="it">Moto3 : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713104500 +0200" stop="20250713124500 +0200" channel="Moto3GermanGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GermanGrandPrixRace">
-    <display-name>Moto2 : German Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713120000 +0200" channel="Moto2GermanGrandPrixRace">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">Moto2 : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713120000 +0200" stop="20250713140000 +0200" channel="Moto2GermanGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGermanGrandPrixRace">
     <display-name>MotoGP : German Grand Prix Race</display-name>
   </channel>
@@ -156,29 +130,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldChampionshipWomenAustraliaWvsItalyW">
-    <display-name>World Championship Women : Australia W vs Italy W</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713113000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
-    <title lang="it">Inizia  alle 11:30.</title>
-    <desc lang="it">World Championship Women : Australia W vs Italy W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713113000 +0200" stop="20250713133000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Australia W vs Italy W</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713113000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
-    <title lang="it">Inizia  alle 11:30.</title>
-    <desc lang="it">World Championship Women : Australia W vs Italy W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713113000 +0200" stop="20250713133000 +0200" channel="WorldChampionshipWomenAustraliaWvsItalyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Australia W vs Italy W</desc>
-    <category lang="it">Water polo</category>
   </programme>
   <channel id="WorldChampionshipWomenNetherlandsWvsUSAW">
     <display-name>World Championship Women : Netherlands W vs USA W</display-name>
