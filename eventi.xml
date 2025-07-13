@@ -72,27 +72,4 @@
     <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="WorldChampionshipWomenNetherlandsWvsUSAW">
-    <display-name>World Championship Women : Netherlands W vs USA W</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713144500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">World Championship Women : Netherlands W vs USA W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713144500 +0200" stop="20250713164500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Netherlands W vs USA W</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713144500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">World Championship Women : Netherlands W vs USA W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713144500 +0200" stop="20250713164500 +0200" channel="WorldChampionshipWomenNetherlandsWvsUSAW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Netherlands W vs USA W</desc>
-    <category lang="it">Water polo</category>
-  </programme>
 </tv>
