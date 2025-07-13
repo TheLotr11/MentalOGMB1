@@ -92,19 +92,6 @@
     <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGermanGrandPrixWarmUp">
-    <display-name>MotoGP : German Grand Prix Warm Up</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713093000 +0200" channel="MotoGPGermanGrandPrixWarmUp">
-    <title lang="it">Inizia  alle 09:30.</title>
-    <desc lang="it">MotoGP : German Grand Prix Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713093000 +0200" stop="20250713113000 +0200" channel="MotoGPGermanGrandPrixWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GermanGrandPrixRace">
     <display-name>Moto3 : German Grand Prix Race</display-name>
   </channel>
@@ -144,19 +131,6 @@
     <desc lang="it">MotoGP : German Grand Prix Race</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="IFSCWorldCupChamonixDifficultyMFSemifinal">
-    <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713100000 +0200" channel="IFSCWorldCupChamonixDifficultyMFSemifinal">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713100000 +0200" stop="20250713120000 +0200" channel="IFSCWorldCupChamonixDifficultyMFSemifinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final</desc>
-    <category lang="it">Climbing</category>
-  </programme>
   <channel id="IFSCWorldCupChamonixDifficultyMFFinal">
     <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Final</display-name>
   </channel>
@@ -182,19 +156,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldChampionshipWomenSpainWvsFranceW">
-    <display-name>World Championship Women : Spain W vs France W</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713100000 +0200" channel="WorldChampionshipWomenSpainWvsFranceW">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">World Championship Women : Spain W vs France W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713100000 +0200" stop="20250713120000 +0200" channel="WorldChampionshipWomenSpainWvsFranceW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Spain W vs France W</desc>
-    <category lang="it">Water polo</category>
   </programme>
   <channel id="WorldChampionshipWomenAustraliaWvsItalyW">
     <display-name>World Championship Women : Australia W vs Italy W</display-name>
