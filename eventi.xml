@@ -26,39 +26,6 @@
     <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <display-name>2025 Wimbledon Championships Ladies Doubles Final</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="2025WimbledonChampionshipsLadiesDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Wimbledon Championships Ladies Doubles Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="2025WimbledonChampionshipsGentlemensSinglesFinal">
     <display-name>2025 Wimbledon Championships Gentlemen's Singles Final</display-name>
   </channel>
@@ -92,19 +59,6 @@
     <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGermanGrandPrixRace">
-    <display-name>MotoGP : German Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713140000 +0200" channel="MotoGPGermanGrandPrixRace">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713140000 +0200" stop="20250713160000 +0200" channel="MotoGPGermanGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : German Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="IFSCWorldCupChamonixDifficultyMFFinal">
     <display-name>IFSC World Cup Chamonix | Difficulty (M/F) – Final</display-name>
   </channel>
@@ -117,19 +71,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
-    <display-name>UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</display-name>
-  </channel>
-  <programme start="20250713000000 +0200" stop="20250713130000 +0200" channel="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713130000 +0200" stop="20250713150000 +0200" channel="UCICrosscountryOlympicWorldCupMenElitePalArinsal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Pal Arinsal</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="WorldChampionshipWomenNetherlandsWvsUSAW">
     <display-name>World Championship Women : Netherlands W vs USA W</display-name>
