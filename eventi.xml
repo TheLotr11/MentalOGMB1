@@ -13,4 +13,17 @@
     <desc lang="it">World Championship U20 : South Africa U20 vs Argentina U20</desc>
     <category lang="it">Rugby Union</category>
   </programme>
+  <channel id="WorldChampionshipsWomenItalyWvsSingaporeW">
+    <display-name>World Championships Women : Italy W vs Singapore W</display-name>
+  </channel>
+  <programme start="20250715000000 +0200" stop="20250715130000 +0200" channel="WorldChampionshipsWomenItalyWvsSingaporeW">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">World Championships Women : Italy W vs Singapore W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250715130000 +0200" stop="20250715150000 +0200" channel="WorldChampionshipsWomenItalyWvsSingaporeW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championships Women : Italy W vs Singapore W</desc>
+    <category lang="it">Water polo</category>
+  </programme>
 </tv>
