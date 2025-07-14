@@ -39,19 +39,6 @@
     <desc lang="it">World Championship U20 : South Africa U20 vs Argentina U20</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <channel id="WorldChampionshipAustraliavsSpain">
-    <display-name>World Championship : Australia vs Spain</display-name>
-  </channel>
-  <programme start="20250714000000 +0200" stop="20250714100000 +0200" channel="WorldChampionshipAustraliavsSpain">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">World Championship : Australia vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714100000 +0200" stop="20250714120000 +0200" channel="WorldChampionshipAustraliavsSpain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Australia vs Spain</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <channel id="WorldChampionshipCroatiavsMontenegro">
     <display-name>World Championship : Croatia vs Montenegro</display-name>
   </channel>
