@@ -39,17 +39,4 @@
     <desc lang="it">World Championship U20 : South Africa U20 vs Argentina U20</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <channel id="WorldChampionshipItalyvsSerbia">
-    <display-name>World Championship : Italy vs Serbia</display-name>
-  </channel>
-  <programme start="20250714000000 +0200" stop="20250714144500 +0200" channel="WorldChampionshipItalyvsSerbia">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">World Championship : Italy vs Serbia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250714144500 +0200" stop="20250714164500 +0200" channel="WorldChampionshipItalyvsSerbia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Italy vs Serbia</desc>
-    <category lang="it">Water polo</category>
-  </programme>
 </tv>
