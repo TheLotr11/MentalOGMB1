@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroNorwayvsItaly">
-    <display-name>UEFA Women's Euro : Norway vs Italy</display-name>
+  <channel id="UEFAWomensEuroSwedenvsEngland">
+    <display-name>UEFA Women's Euro : Sweden vs England</display-name>
   </channel>
-  <programme start="20250716000000 +0200" stop="20250716210000 +0200" channel="UEFAWomensEuroNorwayvsItaly">
+  <programme start="20250717000000 +0200" stop="20250717210000 +0200" channel="UEFAWomensEuroSwedenvsEngland">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Norway vs Italy.</desc>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250716210000 +0200" stop="20250716230000 +0200" channel="UEFAWomensEuroNorwayvsItaly">
+  <programme start="20250717210000 +0200" stop="20250717230000 +0200" channel="UEFAWomensEuroSwedenvsEngland">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Norway vs Italy</desc>
+    <desc lang="it">UEFA Women's Euro : Sweden vs England</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldUniversityGamesWomensFinal10msynchronizedplatform">
+    <display-name>World University Games | Women's Final 10m synchronized platform</display-name>
+  </channel>
+  <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="WorldUniversityGamesWomensFinal10msynchronizedplatform">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250717170000 +0200" stop="20250717190000 +0200" channel="WorldUniversityGamesWomensFinal10msynchronizedplatform">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games | Women's Final 10m synchronized platform</desc>
+    <category lang="it">Water Sports</category>
   </programme>
 </tv>
