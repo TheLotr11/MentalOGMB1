@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Italy</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WorldChampionshipItalyvsSouthAfrica">
-    <display-name>World Championship : Italy vs South Africa</display-name>
-  </channel>
-  <programme start="20250716000000 +0200" stop="20250716074500 +0200" channel="WorldChampionshipItalyvsSouthAfrica">
-    <title lang="it">Inizia  alle 07:45.</title>
-    <desc lang="it">World Championship : Italy vs South Africa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250716074500 +0200" stop="20250716094500 +0200" channel="WorldChampionshipItalyvsSouthAfrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Italy vs South Africa</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <channel id="WorldChampionshipGreecevsCroatia">
     <display-name>World Championship : Greece vs Croatia</display-name>
   </channel>
