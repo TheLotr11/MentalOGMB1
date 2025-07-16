@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Italy</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WorldChampionshipGreecevsCroatia">
-    <display-name>World Championship : Greece vs Croatia</display-name>
-  </channel>
-  <programme start="20250716000000 +0200" stop="20250716113000 +0200" channel="WorldChampionshipGreecevsCroatia">
-    <title lang="it">Inizia  alle 11:30.</title>
-    <desc lang="it">World Championship : Greece vs Croatia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250716113000 +0200" stop="20250716133000 +0200" channel="WorldChampionshipGreecevsCroatia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship : Greece vs Croatia</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <channel id="WorldChampionshipSpainvsHungary">
     <display-name>World Championship : Spain vs Hungary</display-name>
   </channel>
