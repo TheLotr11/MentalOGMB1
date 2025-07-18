@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Spain vs Switzerland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPCzechRepublicGPPractice">
-    <display-name>MotoGP : Czech Republic GP Practice</display-name>
-  </channel>
-  <programme start="20250718000000 +0200" stop="20250718150000 +0200" channel="MotoGPCzechRepublicGPPractice">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">MotoGP : Czech Republic GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718150000 +0200" stop="20250718170000 +0200" channel="MotoGPCzechRepublicGPPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Czech Republic GP Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="SwimmingSummerUniversiadeRhineRuhr2025Day2">
     <display-name>Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2</display-name>
   </channel>
