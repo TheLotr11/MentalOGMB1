@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Spain vs Switzerland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPCzechRepublicGPFreePractice1">
-    <display-name>MotoGP : Czech Republic GP Free Practice 1</display-name>
-  </channel>
-  <programme start="20250718000000 +0200" stop="20250718105000 +0200" channel="MotoGPCzechRepublicGPFreePractice1">
-    <title lang="it">Inizia  alle 10:50.</title>
-    <desc lang="it">MotoGP : Czech Republic GP Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250718105000 +0200" stop="20250718125000 +0200" channel="MotoGPCzechRepublicGPFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Czech Republic GP Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3CzechRepublicGPPractice">
     <display-name>Moto3 : Czech Republic GP Practice</display-name>
   </channel>
