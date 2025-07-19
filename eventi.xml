@@ -91,19 +91,6 @@
     <desc lang="it">MotoGP : Czech Grand Prix Sprint</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="UFC318MainCardMaxHollowayvsDustinPoirier">
-    <display-name>UFC 318 Main Card : Max Holloway vs Dustin Poirier</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719040000 +0200" channel="UFC318MainCardMaxHollowayvsDustinPoirier">
-    <title lang="it">Inizia  alle 04:00.</title>
-    <desc lang="it">UFC 318 Main Card : Max Holloway vs Dustin Poirier.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719040000 +0200" stop="20250719060000 +0200" channel="UFC318MainCardMaxHollowayvsDustinPoirier">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC 318 Main Card : Max Holloway vs Dustin Poirier</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <channel id="IAAFDiamondLeagueLondonAthleticsMeetLondonStadium">
     <display-name>IAAF Diamond League London Athletics Meet - London Stadium</display-name>
   </channel>
