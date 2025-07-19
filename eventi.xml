@@ -26,19 +26,6 @@
     <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</desc>
     <category lang="it">Athletics</category>
   </programme>
-  <channel id="WorldCupMadridMensandWomensLeadFinal">
-    <display-name>World Cup | Madrid Men's and Women's Lead | Final</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719202500 +0200" channel="WorldCupMadridMensandWomensLeadFinal">
-    <title lang="it">Inizia  alle 20:25.</title>
-    <desc lang="it">World Cup | Madrid Men's and Women's Lead | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719202500 +0200" stop="20250719222500 +0200" channel="WorldCupMadridMensandWomensLeadFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Madrid Men's and Women's Lead | Final</desc>
-    <category lang="it">Climbing</category>
-  </programme>
   <channel id="WorldChampionshipU20NewZealandU20vsSouthAfricaU20">
     <display-name>World Championship U20 : New Zealand U20 vs South Africa U20</display-name>
   </channel>
