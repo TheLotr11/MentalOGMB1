@@ -39,19 +39,6 @@
     <desc lang="it">World Cup | Madrid Men's and Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="FriendlyInternationalSouthAfricavsGeorgia">
-    <display-name>Friendly International : South Africa vs Georgia</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719171000 +0200" channel="FriendlyInternationalSouthAfricavsGeorgia">
-    <title lang="it">Inizia  alle 17:10.</title>
-    <desc lang="it">Friendly International : South Africa vs Georgia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719171000 +0200" stop="20250719191000 +0200" channel="FriendlyInternationalSouthAfricavsGeorgia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : South Africa vs Georgia</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="WorldChampionshipU20NewZealandU20vsSouthAfricaU20">
     <display-name>World Championship U20 : New Zealand U20 vs South Africa U20</display-name>
   </channel>
