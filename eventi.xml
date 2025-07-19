@@ -13,32 +13,6 @@
     <desc lang="it">UEFA Women's Euro : France vs Germany</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Moto3CzechGrandPrixQualifying">
-    <display-name>Moto3 : Czech Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719125000 +0200" channel="Moto3CzechGrandPrixQualifying">
-    <title lang="it">Inizia  alle 12:50.</title>
-    <desc lang="it">Moto3 : Czech Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719125000 +0200" stop="20250719145000 +0200" channel="Moto3CzechGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Czech Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2CzechGrandPrixQualifying">
-    <display-name>Moto2 : Czech Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719134000 +0200" channel="Moto2CzechGrandPrixQualifying">
-    <title lang="it">Inizia  alle 13:40.</title>
-    <desc lang="it">Moto2 : Czech Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719134000 +0200" stop="20250719154000 +0200" channel="Moto2CzechGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Czech Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPCzechGrandPrixSprint">
     <display-name>MotoGP : Czech Grand Prix Sprint</display-name>
   </channel>
@@ -90,19 +64,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup | Madrid Men's and Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="TourdeFranceUCIWorldTourStage14PautoLuchonSuperbagnresMountain182km4950m">
-    <display-name>Tour de France UCI World Tour Stage 14 - Pau to Luchon-Superbagn?res Mountain | 182 km | 4950 m</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719130000 +0200" channel="TourdeFranceUCIWorldTourStage14PautoLuchonSuperbagnresMountain182km4950m">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 14 - Pau to Luchon-Superbagn?res Mountain | 182 km | 4950 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719130000 +0200" stop="20250719150000 +0200" channel="TourdeFranceUCIWorldTourStage14PautoLuchonSuperbagnresMountain182km4950m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France UCI World Tour Stage 14 - Pau to Luchon-Superbagn?res Mountain | 182 km | 4950 m</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="FriendlyInternationalSouthAfricavsGeorgia">
     <display-name>Friendly International : South Africa vs Georgia</display-name>
