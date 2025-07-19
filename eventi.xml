@@ -13,32 +13,6 @@
     <desc lang="it">UEFA Women's Euro : France vs Germany</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPCzechGrandPrixSprint">
-    <display-name>MotoGP : Czech Grand Prix Sprint</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719143000 +0200" channel="MotoGPCzechGrandPrixSprint">
-    <title lang="it">Inizia  alle 14:30.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719143000 +0200" stop="20250719163000 +0200" channel="MotoGPCzechGrandPrixSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Sprint</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="IAAFDiamondLeagueLondonAthleticsMeetLondonStadium">
-    <display-name>IAAF Diamond League London Athletics Meet - London Stadium</display-name>
-  </channel>
-  <programme start="20250719000000 +0200" stop="20250719150000 +0200" channel="IAAFDiamondLeagueLondonAthleticsMeetLondonStadium">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">IAAF Diamond League London Athletics Meet - London Stadium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719150000 +0200" stop="20250719170000 +0200" channel="IAAFDiamondLeagueLondonAthleticsMeetLondonStadium">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IAAF Diamond League London Athletics Meet - London Stadium</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="PrimieroDolomitiMarathon2025SanMartinodiCastrozzaPrimiero">
     <display-name>Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero</display-name>
   </channel>
