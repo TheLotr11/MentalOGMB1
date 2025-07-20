@@ -1,3 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClassicTerresdelEbre188km">
+    <display-name>Classic Terres de l'Ebre | 188 km</display-name>
+  </channel>
+  <programme start="20250721000000 +0200" stop="20250721160000 +0200" channel="ClassicTerresdelEbre188km">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Classic Terres de l'Ebre | 188 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721160000 +0200" stop="20250721180000 +0200" channel="ClassicTerresdelEbre188km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Classic Terres de l'Ebre | 188 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="2025WorldAquaticsChampionshipsWomensWaterPolo2ndSemifinal">
+    <display-name>2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal</display-name>
+  </channel>
+  <programme start="20250721000000 +0200" stop="20250721152500 +0200" channel="2025WorldAquaticsChampionshipsWomensWaterPolo2ndSemifinal">
+    <title lang="it">Inizia  alle 15:25.</title>
+    <desc lang="it">2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721152500 +0200" stop="20250721172500 +0200" channel="2025WorldAquaticsChampionshipsWomensWaterPolo2ndSemifinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldUniversityGamesRhineRuhrMatchday5">
+    <display-name>World University Games Rhine-Ruhr | Matchday 5</display-name>
+  </channel>
+  <programme start="20250721000000 +0200" stop="20250721190000 +0200" channel="WorldUniversityGamesRhineRuhrMatchday5">
+    <title lang="it">Inizia  alle 19:00.</title>
+    <desc lang="it">World University Games Rhine-Ruhr | Matchday 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721190000 +0200" stop="20250721210000 +0200" channel="WorldUniversityGamesRhineRuhrMatchday5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World University Games Rhine-Ruhr | Matchday 5</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 </tv>
