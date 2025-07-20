@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="MotoGPCzechGrandPrixRace">
-    <display-name>MotoGP : Czech Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250720000000 +0200" stop="20250720131500 +0200" channel="MotoGPCzechGrandPrixRace">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250720131500 +0200" stop="20250720151500 +0200" channel="MotoGPCzechGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Basketball3x3SummerUniversiadeRhineRuhr2025medalzone">
-    <display-name>Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone</display-name>
-  </channel>
-  <programme start="20250720000000 +0200" stop="20250720141000 +0200" channel="Basketball3x3SummerUniversiadeRhineRuhr2025medalzone">
-    <title lang="it">Inizia  alle 14:10.</title>
-    <desc lang="it">Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250720141000 +0200" stop="20250720161000 +0200" channel="Basketball3x3SummerUniversiadeRhineRuhr2025medalzone">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <channel id="NationsLeagueNetherlandsvsItaly">
     <display-name>Nations League : Netherlands vs. Italy</display-name>
   </channel>
