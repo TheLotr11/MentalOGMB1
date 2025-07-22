@@ -52,17 +52,4 @@
     <desc lang="it">Final Four Petanque 2025-from Gorizia</desc>
     <category lang="it">Bowling</category>
   </programme>
-  <channel id="2025WorldAquaticsChampionshipsMensWaterPolo2ndSemifinal">
-    <display-name>2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal</display-name>
-  </channel>
-  <programme start="20250722000000 +0200" stop="20250722152500 +0200" channel="2025WorldAquaticsChampionshipsMensWaterPolo2ndSemifinal">
-    <title lang="it">Inizia  alle 15:25.</title>
-    <desc lang="it">2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722152500 +0200" stop="20250722172500 +0200" channel="2025WorldAquaticsChampionshipsMensWaterPolo2ndSemifinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal</desc>
-    <category lang="it">Water polo</category>
-  </programme>
 </tv>
