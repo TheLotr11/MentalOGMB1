@@ -52,19 +52,6 @@
     <desc lang="it">Nations League Women : Brazil W vs Germany W</desc>
     <category lang="it">Volleyball</category>
   </programme>
-  <channel id="WorldChampionshipPlayOffsGreecevsSerbia">
-    <display-name>World Championship - Play Offs : Greece vs Serbia</display-name>
-  </channel>
-  <programme start="20250724000000 +0200" stop="20250724113000 +0200" channel="WorldChampionshipPlayOffsGreecevsSerbia">
-    <title lang="it">Inizia  alle 11:30.</title>
-    <desc lang="it">World Championship - Play Offs : Greece vs Serbia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250724113000 +0200" stop="20250724133000 +0200" channel="WorldChampionshipPlayOffsGreecevsSerbia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship - Play Offs : Greece vs Serbia</desc>
-    <category lang="it">Water polo</category>
-  </programme>
   <channel id="WorldChampionshipFinal">
     <display-name>World Championship: Final</display-name>
   </channel>
