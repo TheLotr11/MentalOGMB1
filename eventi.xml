@@ -1,16 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyAjaxvsCeltic">
-    <display-name>Club Friendly : Ajax vs Celtic</display-name>
+  <channel id="ClubFriendlyFiorentinavsCarrarese">
+    <display-name>Club Friendly : Fiorentina vs Carrarese</display-name>
   </channel>
-  <programme start="20250724000000 +0200" stop="20250724203000 +0200" channel="ClubFriendlyAjaxvsCeltic">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Club Friendly : Ajax vs Celtic.</desc>
+  <programme start="20250725000000 +0200" stop="20250725200000 +0200" channel="ClubFriendlyFiorentinavsCarrarese">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">Club Friendly : Fiorentina vs Carrarese.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250724203000 +0200" stop="20250724223000 +0200" channel="ClubFriendlyAjaxvsCeltic">
+  <programme start="20250725200000 +0200" stop="20250725220000 +0200" channel="ClubFriendlyFiorentinavsCarrarese">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Ajax vs Celtic</desc>
+    <desc lang="it">Club Friendly : Fiorentina vs Carrarese</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Formula3MoetChandonBelgianGPPractice">
+    <display-name>Formula 3 : Moet & Chandon Belgian GP - Practice</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725084500 +0200" channel="Formula3MoetChandonBelgianGPPractice">
+    <title lang="it">Inizia  alle 08:45.</title>
+    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725084500 +0200" stop="20250725104500 +0200" channel="Formula3MoetChandonBelgianGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2MoetChandonBelgianGPPractice">
+    <display-name>Formula 2 : Moet & Chandon Belgian GP - Practice</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725101000 +0200" channel="Formula2MoetChandonBelgianGPPractice">
+    <title lang="it">Inizia  alle 10:10.</title>
+    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725101000 +0200" stop="20250725121000 +0200" channel="Formula2MoetChandonBelgianGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MoetChandonBelgianGPPractice1">
+    <display-name>Formula 1 : Moet & Chandon Belgian GP - Practice 1</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725123000 +0200" channel="Formula1MoetChandonBelgianGPPractice1">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725123000 +0200" stop="20250725143000 +0200" channel="Formula1MoetChandonBelgianGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula3MoetChandonBelgianGPQualifying">
+    <display-name>Formula 3 : Moet & Chandon Belgian GP - Qualifying</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725140000 +0200" channel="Formula3MoetChandonBelgianGPQualifying">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725140000 +0200" stop="20250725160000 +0200" channel="Formula3MoetChandonBelgianGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2MoetChandonBelgianGPQualifying">
+    <display-name>Formula 2 : Moet & Chandon Belgian GP - Qualifying</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725150000 +0200" channel="Formula2MoetChandonBelgianGPQualifying">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725150000 +0200" stop="20250725170000 +0200" channel="Formula2MoetChandonBelgianGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MoetChandonBelgianGPSprintQualifying">
+    <display-name>Formula 1 : Moet & Chandon Belgian GP - Sprint Qualifying</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725163000 +0200" channel="Formula1MoetChandonBelgianGPSprintQualifying">
+    <title lang="it">Inizia  alle 16:30.</title>
+    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Sprint Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725163000 +0200" stop="20250725183000 +0200" channel="Formula1MoetChandonBelgianGPSprintQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Sprint Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="TourdeFranceUCIWorldTourStage19AlbertvilletoLaPlagneMountain129km4550m">
+    <display-name>Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725130000 +0200" channel="TourdeFranceUCIWorldTourStage19AlbertvilletoLaPlagneMountain129km4550m">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725130000 +0200" stop="20250725150000 +0200" channel="TourdeFranceUCIWorldTourStage19AlbertvilletoLaPlagneMountain129km4550m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ArtisticGymnasticsSummerUniversiadeRhineRuhr2025womensallaroundfinals">
+    <display-name>Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals</display-name>
+  </channel>
+  <programme start="20250725000000 +0200" stop="20250725190000 +0200" channel="ArtisticGymnasticsSummerUniversiadeRhineRuhr2025womensallaroundfinals">
+    <title lang="it">Inizia  alle 19:00.</title>
+    <desc lang="it">Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250725190000 +0200" stop="20250725210000 +0200" channel="ArtisticGymnasticsSummerUniversiadeRhineRuhr2025womensallaroundfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals</desc>
+    <category lang="it">Gymnastics</category>
   </programme>
 </tv>
