@@ -11,12 +11,12 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Water Sports" group-title="Eventi Live",--- Water Sports ---
-https://exemple.m3u8
-
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://exemple.m3u8
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Water Sports" group-title="Eventi Live",--- Water Sports ---
 https://exemple.m3u8
 

@@ -98,19 +98,6 @@
     <desc lang="it">Premier League Summer Series : Manchester United vs West Ham United</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula3MoetChandonBelgianGPSprintRace">
-    <display-name>Formula 3 : Moet & Chandon Belgian GP - Sprint Race</display-name>
-  </channel>
-  <programme start="20250726000000 +0200" stop="20250726091500 +0200" channel="Formula3MoetChandonBelgianGPSprintRace">
-    <title lang="it">Inizia  alle 09:15.</title>
-    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250726091500 +0200" stop="20250726111500 +0200" channel="Formula3MoetChandonBelgianGPSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MoetChandonBelgianGPSprint">
     <display-name>Formula 1 : Moet & Chandon Belgian GP - Sprint</display-name>
   </channel>
