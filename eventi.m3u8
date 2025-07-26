@@ -2,3 +2,21 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
+#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Water Sports" group-title="Eventi Live",--- Water Sports ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
+https://exemple.m3u8
+
