@@ -72,32 +72,6 @@
     <desc lang="it">Premier League Summer Series : Manchester United vs West Ham United</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1MoetChandonBelgianGPQualifying">
-    <display-name>Formula 1 : Moet & Chandon Belgian GP - Qualifying</display-name>
-  </channel>
-  <programme start="20250726000000 +0200" stop="20250726160000 +0200" channel="Formula1MoetChandonBelgianGPQualifying">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250726160000 +0200" stop="20250726180000 +0200" channel="Formula1MoetChandonBelgianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="2025WorldChampionshipsTeamFinalsMensFoilWomensEpeefromTbilisi">
-    <display-name>2025 World Championships - Team Finals: Men's Foil, Women's Epee (from Tbilisi)</display-name>
-  </channel>
-  <programme start="20250726000000 +0200" stop="20250726160000 +0200" channel="2025WorldChampionshipsTeamFinalsMensFoilWomensEpeefromTbilisi">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">2025 World Championships - Team Finals: Men's Foil, Women's Epee (from Tbilisi).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250726160000 +0200" stop="20250726180000 +0200" channel="2025WorldChampionshipsTeamFinalsMensFoilWomensEpeefromTbilisi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 World Championships - Team Finals: Men's Foil, Women's Epee (from Tbilisi)</desc>
-    <category lang="it">Fencing</category>
-  </programme>
   <channel id="SupertriLeagueTorontoRound1">
     <display-name>Supertri League | Toronto Round 1</display-name>
   </channel>
