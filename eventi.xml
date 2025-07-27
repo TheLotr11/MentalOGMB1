@@ -26,19 +26,6 @@
     <desc lang="it">Club Friendly : Como vs Ajax</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula2MoetChandonBelgianGPRace">
-    <display-name>Formula 2 : Moet & Chandon Belgian GP - Race</display-name>
-  </channel>
-  <programme start="20250727000000 +0200" stop="20250727100000 +0200" channel="Formula2MoetChandonBelgianGPRace">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727100000 +0200" stop="20250727120000 +0200" channel="Formula2MoetChandonBelgianGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Moet & Chandon Belgian GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MoetChandonBelgianGPGrandPrixSunday">
     <display-name>Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday</display-name>
   </channel>
@@ -64,19 +51,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="2025WorldAquaticsChampionshipsDiving10mSynchroPlatformFinalMixedCompetition">
-    <display-name>2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition</display-name>
-  </channel>
-  <programme start="20250727000000 +0200" stop="20250727090000 +0200" channel="2025WorldAquaticsChampionshipsDiving10mSynchroPlatformFinalMixedCompetition">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727090000 +0200" stop="20250727110000 +0200" channel="2025WorldAquaticsChampionshipsDiving10mSynchroPlatformFinalMixedCompetition">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition</desc>
-    <category lang="it">Water Sports</category>
   </programme>
   <channel id="SwimmingWorldChampionships">
     <display-name>Swimming: World Championships</display-name>
