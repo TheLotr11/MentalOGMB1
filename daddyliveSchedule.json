@@ -1,5 +1,117 @@
 {
     "Sunday 27th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "PPV - MainStage | Tomorrowland 2025 LIVE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Porsche Sprint Challenge Lauguna Seca",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 IRA Sprints at Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Indiana Sprint Week at Lawrenceburg Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Carl Wegner Memorial at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:25",
+                "event": "Husets Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Anthony Pettis FC 18",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "EBI 24: The Bantamweights",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "16:00",
