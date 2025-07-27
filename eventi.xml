@@ -26,19 +26,6 @@
     <desc lang="it">Club Friendly : Como vs Ajax</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula3MoetChandonBelgianGPRace">
-    <display-name>Formula 3 : Moet & Chandon Belgian GP - Race</display-name>
-  </channel>
-  <programme start="20250727000000 +0200" stop="20250727083000 +0200" channel="Formula3MoetChandonBelgianGPRace">
-    <title lang="it">Inizia  alle 08:30.</title>
-    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727083000 +0200" stop="20250727103000 +0200" channel="Formula3MoetChandonBelgianGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Moet & Chandon Belgian GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula2MoetChandonBelgianGPRace">
     <display-name>Formula 2 : Moet & Chandon Belgian GP - Race</display-name>
   </channel>
