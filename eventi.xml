@@ -26,19 +26,6 @@
     <desc lang="it">Club Friendly : Como vs Ajax</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1MoetChandonBelgianGPGrandPrixSunday">
-    <display-name>Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250727000000 +0200" stop="20250727140000 +0200" channel="Formula1MoetChandonBelgianGPGrandPrixSunday">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727140000 +0200" stop="20250727160000 +0200" channel="Formula1MoetChandonBelgianGPGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MoetChandonBelgianGPRace">
     <display-name>Formula 1 : Moet & Chandon Belgian GP - Race</display-name>
   </channel>
@@ -51,28 +38,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Moet & Chandon Belgian GP - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="SwimmingWorldChampionships">
-    <display-name>Swimming: World Championships</display-name>
-  </channel>
-  <programme start="20250727000000 +0200" stop="20250727130000 +0200" channel="SwimmingWorldChampionships">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">Swimming: World Championships.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727130000 +0200" stop="20250727150000 +0200" channel="SwimmingWorldChampionships">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Swimming: World Championships</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
-  <programme start="20250727000000 +0200" stop="20250727130000 +0200" channel="SwimmingWorldChampionships">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">Swimming: World Championships.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727130000 +0200" stop="20250727150000 +0200" channel="SwimmingWorldChampionships">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Swimming: World Championships</desc>
-    <category lang="it">Water Sports</category>
   </programme>
 </tv>
