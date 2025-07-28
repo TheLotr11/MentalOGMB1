@@ -1,3 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ShanghaiMastersRound1Day1ZhangAndavsYuanSijun">
+    <display-name>Shanghai Masters Round 1 | Day1 : Zhang Anda vs Yuan Sijun</display-name>
+  </channel>
+  <programme start="20250728000000 +0200" stop="20250728080000 +0200" channel="ShanghaiMastersRound1Day1ZhangAndavsYuanSijun">
+    <title lang="it">Inizia  alle 08:00.</title>
+    <desc lang="it">Shanghai Masters Round 1 | Day1 : Zhang Anda vs Yuan Sijun.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250728080000 +0200" stop="20250728100000 +0200" channel="ShanghaiMastersRound1Day1ZhangAndavsYuanSijun">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 1 | Day1 : Zhang Anda vs Yuan Sijun</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ShanghaiMastersRound1Day1NeilRobertsonvsPangJunxu">
+    <display-name>Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu</display-name>
+  </channel>
+  <programme start="20250728000000 +0200" stop="20250728133000 +0200" channel="ShanghaiMastersRound1Day1NeilRobertsonvsPangJunxu">
+    <title lang="it">Inizia  alle 13:30.</title>
+    <desc lang="it">Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250728133000 +0200" stop="20250728153000 +0200" channel="ShanghaiMastersRound1Day1NeilRobertsonvsPangJunxu">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WomensTourdeFranceFlat162km">
+    <display-name>Women's Tour de France Flat | 162 km</display-name>
+  </channel>
+  <programme start="20250728000000 +0200" stop="20250728151500 +0200" channel="WomensTourdeFranceFlat162km">
+    <title lang="it">Inizia  alle 15:15.</title>
+    <desc lang="it">Women's Tour de France Flat | 162 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250728151500 +0200" stop="20250728171500 +0200" channel="WomensTourdeFranceFlat162km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Tour de France Flat | 162 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
