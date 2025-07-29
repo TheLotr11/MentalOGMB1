@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WomensTourdeFranceFlat128km">
-    <display-name>Women's Tour de France Flat | 128 km</display-name>
-  </channel>
-  <programme start="20250729000000 +0200" stop="20250729151500 +0200" channel="WomensTourdeFranceFlat128km">
-    <title lang="it">Inizia  alle 15:15.</title>
-    <desc lang="it">Women's Tour de France Flat | 128 km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250729151500 +0200" stop="20250729171500 +0200" channel="WomensTourdeFranceFlat128km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Tour de France Flat | 128 km</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
