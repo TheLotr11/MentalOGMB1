@@ -42,17 +42,7 @@
   <channel id="ShanghaiMastersRound2Day3">
     <display-name>Shanghai Masters Round 2 | Day 3</display-name>
   </channel>
-  <programme start="20250730000000 +0200" stop="20250730080000 +0200" channel="ShanghaiMastersRound2Day3">
-    <title lang="it">Inizia  alle 08:00.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730080000 +0200" stop="20250730100000 +0200" channel="ShanghaiMastersRound2Day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 3</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250730100000 +0200" stop="20250730133000 +0200" channel="ShanghaiMastersRound2Day3">
+  <programme start="20250730000000 +0200" stop="20250730133000 +0200" channel="ShanghaiMastersRound2Day3">
     <title lang="it">Inizia  alle 13:30.</title>
     <desc lang="it">Shanghai Masters Round 2 | Day 3.</desc>
     <category lang="it">Annuncio</category>
