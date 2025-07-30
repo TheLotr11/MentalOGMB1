@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyFenerbahevsLazio">
-    <display-name>Club Friendly : Fenerbahçe vs Lazio</display-name>
-  </channel>
-  <programme start="20250730000000 +0200" stop="20250730193000 +0200" channel="ClubFriendlyFenerbahevsLazio">
-    <title lang="it">Inizia  alle 19:30.</title>
-    <desc lang="it">Club Friendly : Fenerbahçe vs Lazio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730193000 +0200" stop="20250730213000 +0200" channel="ClubFriendlyFenerbahevsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Fenerbahçe vs Lazio</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="PremierLeagueSummerSeriesWestHamUnitedvsEverton">
     <display-name>Premier League Summer Series : West Ham United vs Everton</display-name>
   </channel>
