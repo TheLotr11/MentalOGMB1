@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyMonacovsTorino">
-    <display-name>Club Friendly : Monaco vs Torino</display-name>
-  </channel>
-  <programme start="20250730000000 +0200" stop="20250730180000 +0200" channel="ClubFriendlyMonacovsTorino">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Club Friendly : Monaco vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730180000 +0200" stop="20250730200000 +0200" channel="ClubFriendlyMonacovsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Monaco vs Torino</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ClubFriendlyFenerbahevsLazio">
     <display-name>Club Friendly : Fenerbahçe vs Lazio</display-name>
   </channel>
