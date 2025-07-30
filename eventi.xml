@@ -65,17 +65,4 @@
     <desc lang="it">Women's Tour de France Hilly | 166 km</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="Mixed3mSpringboardSynchroFinal">
-    <display-name>Mixed 3m Springboard Synchro Final</display-name>
-  </channel>
-  <programme start="20250730000000 +0200" stop="20250730110000 +0200" channel="Mixed3mSpringboardSynchroFinal">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Mixed 3m Springboard Synchro Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730110000 +0200" stop="20250730130000 +0200" channel="Mixed3mSpringboardSynchroFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Mixed 3m Springboard Synchro Final</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
 </tv>
