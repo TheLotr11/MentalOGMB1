@@ -65,19 +65,6 @@
     <desc lang="it">Women's Tour de France Hilly | 166 km</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="WorldAquaticsChampionships2025PoolSwimmingDay3SemifinalsandFinals">
-    <display-name>World Aquatics Championships 2025 - Pool Swimming: Day 3 Semifinals and Finals</display-name>
-  </channel>
-  <programme start="20250730000000 +0200" stop="20250730093500 +0200" channel="WorldAquaticsChampionships2025PoolSwimmingDay3SemifinalsandFinals">
-    <title lang="it">Inizia  alle 09:35.</title>
-    <desc lang="it">World Aquatics Championships 2025 - Pool Swimming: Day 3 Semifinals and Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730093500 +0200" stop="20250730113500 +0200" channel="WorldAquaticsChampionships2025PoolSwimmingDay3SemifinalsandFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Aquatics Championships 2025 - Pool Swimming: Day 3 Semifinals and Finals</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
   <channel id="Mixed3mSpringboardSynchroFinal">
     <display-name>Mixed 3m Springboard Synchro Final</display-name>
   </channel>
