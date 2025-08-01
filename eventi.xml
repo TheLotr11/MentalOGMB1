@@ -1,3 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyJuventusvsReggiana">
+    <display-name>Club Friendly : Juventus vs Reggiana</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802110000 +0200" channel="ClubFriendlyJuventusvsReggiana">
+    <title lang="it">Inizia  alle 11:00.</title>
+    <desc lang="it">Club Friendly : Juventus vs Reggiana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802110000 +0200" stop="20250802130000 +0200" channel="ClubFriendlyJuventusvsReggiana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : Juventus vs Reggiana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyRBLeipzigvsAtalanta">
+    <display-name>Club Friendly : RB Leipzig vs Atalanta</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802150000 +0200" channel="ClubFriendlyRBLeipzigvsAtalanta">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Club Friendly : RB Leipzig vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802150000 +0200" stop="20250802170000 +0200" channel="ClubFriendlyRBLeipzigvsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : RB Leipzig vs Atalanta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyLensvsRoma">
+    <display-name>Club Friendly : Lens vs Roma</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802180000 +0200" channel="ClubFriendlyLensvsRoma">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Club Friendly : Lens vs Roma.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802180000 +0200" stop="20250802200000 +0200" channel="ClubFriendlyLensvsRoma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : Lens vs Roma</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyGalatasarayvsLazio">
+    <display-name>Club Friendly : Galatasaray vs Lazio</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802200000 +0200" channel="ClubFriendlyGalatasarayvsLazio">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">Club Friendly : Galatasaray vs Lazio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802200000 +0200" stop="20250802220000 +0200" channel="ClubFriendlyGalatasarayvsLazio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : Galatasaray vs Lazio</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyCagliarivsSainttienne">
+    <display-name>Club Friendly : Cagliari vs Saint-Étienne</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802203000 +0200" channel="ClubFriendlyCagliarivsSainttienne">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802203000 +0200" stop="20250802223000 +0200" channel="ClubFriendlyCagliarivsSainttienne">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Formula3LenovoHungarianGrandPrixSprintRace">
+    <display-name>Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802100500 +0200" channel="Formula3LenovoHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia  alle 10:05.</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802100500 +0200" stop="20250802120500 +0200" channel="Formula3LenovoHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoHungarianGrandPrixPractice3">
+    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Practice 3</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802123000 +0200" channel="Formula1LenovoHungarianGrandPrixPractice3">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802123000 +0200" stop="20250802143000 +0200" channel="Formula1LenovoHungarianGrandPrixPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2LenovoHungarianGrandPrixSprintRace">
+    <display-name>Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802141500 +0200" channel="Formula2LenovoHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia  alle 14:15.</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802141500 +0200" stop="20250802161500 +0200" channel="Formula2LenovoHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoHungarianGrandPrixQualifying">
+    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Qualifying</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802160000 +0200" channel="Formula1LenovoHungarianGrandPrixQualifying">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802160000 +0200" stop="20250802180000 +0200" channel="Formula1LenovoHungarianGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
+    <display-name>UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802030000 +0200" channel="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
+    <title lang="it">Inizia  alle 03:00.</title>
+    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802030000 +0200" stop="20250802050000 +0200" channel="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park</desc>
+    <category lang="it">MMA</category>
+  </programme>
+  <channel id="ShanghaiMastersRound2Day6">
+    <display-name>Shanghai Masters Round 2 | Day 6</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802080000 +0200" channel="ShanghaiMastersRound2Day6">
+    <title lang="it">Inizia  alle 08:00.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802080000 +0200" stop="20250802100000 +0200" channel="ShanghaiMastersRound2Day6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250802100000 +0200" stop="20250802133000 +0200" channel="ShanghaiMastersRound2Day6">
+    <title lang="it">Inizia  alle 13:30.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802133000 +0200" stop="20250802153000 +0200" channel="ShanghaiMastersRound2Day6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="AthleticsGermanChampionshipsWomensHammerThrowFinal">
+    <display-name>Athletics: German Championships Women's Hammer Throw, Final</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802121500 +0200" channel="AthleticsGermanChampionshipsWomensHammerThrowFinal">
+    <title lang="it">Inizia  alle 12:15.</title>
+    <desc lang="it">Athletics: German Championships Women's Hammer Throw, Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802121500 +0200" stop="20250802141500 +0200" channel="AthleticsGermanChampionshipsWomensHammerThrowFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Athletics: German Championships Women's Hammer Throw, Final</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <channel id="TourdeFranceWomenStage8Mountain112km">
+    <display-name>Tour de France Women: Stage 8 Mountain | 112 km</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802134000 +0200" channel="TourdeFranceWomenStage8Mountain112km">
+    <title lang="it">Inizia  alle 13:40.</title>
+    <desc lang="it">Tour de France Women: Stage 8 Mountain | 112 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802134000 +0200" stop="20250802154000 +0200" channel="TourdeFranceWomenStage8Mountain112km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de France Women: Stage 8 Mountain | 112 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="Womens3mSpringboardFinal">
+    <display-name>Women's 3m Springboard Final</display-name>
+  </channel>
+  <programme start="20250802000000 +0200" stop="20250802120000 +0200" channel="Womens3mSpringboardFinal">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">Women's 3m Springboard Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802120000 +0200" stop="20250802140000 +0200" channel="Womens3mSpringboardFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's 3m Springboard Final</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 </tv>
