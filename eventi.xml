@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyGalatasarayvsLazio">
-    <display-name>Club Friendly : Galatasaray vs Lazio</display-name>
-  </channel>
-  <programme start="20250802000000 +0200" stop="20250802200000 +0200" channel="ClubFriendlyGalatasarayvsLazio">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">Club Friendly : Galatasaray vs Lazio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250802200000 +0200" stop="20250802220000 +0200" channel="ClubFriendlyGalatasarayvsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Galatasaray vs Lazio</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ClubFriendlyCagliarivsSainttienne">
     <display-name>Club Friendly : Cagliari vs Saint-Étienne</display-name>
   </channel>
