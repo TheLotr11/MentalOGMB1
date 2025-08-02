@@ -117,19 +117,6 @@
     <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
-    <display-name>UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park</display-name>
-  </channel>
-  <programme start="20250802000000 +0200" stop="20250802030000 +0200" channel="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
-    <title lang="it">Inizia  alle 03:00.</title>
-    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250802030000 +0200" stop="20250802050000 +0200" channel="UFCFightNightMainCardTatsuroTairavsHyunSungPark">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <channel id="ShanghaiMastersRound2Day6">
     <display-name>Shanghai Masters Round 2 | Day 6</display-name>
   </channel>
