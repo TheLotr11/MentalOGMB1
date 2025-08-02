@@ -120,17 +120,7 @@
   <channel id="ShanghaiMastersRound2Day6">
     <display-name>Shanghai Masters Round 2 | Day 6</display-name>
   </channel>
-  <programme start="20250802000000 +0200" stop="20250802080000 +0200" channel="ShanghaiMastersRound2Day6">
-    <title lang="it">Inizia  alle 08:00.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250802080000 +0200" stop="20250802100000 +0200" channel="ShanghaiMastersRound2Day6">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 6</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250802100000 +0200" stop="20250802133000 +0200" channel="ShanghaiMastersRound2Day6">
+  <programme start="20250802000000 +0200" stop="20250802133000 +0200" channel="ShanghaiMastersRound2Day6">
     <title lang="it">Inizia  alle 13:30.</title>
     <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
     <category lang="it">Annuncio</category>
