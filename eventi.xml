@@ -1,16 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyCagliarivsSainttienne">
-    <display-name>Club Friendly : Cagliari vs Saint-Étienne</display-name>
+  <channel id="ClubFriendlyLeicesterCityvsFiorentina">
+    <display-name>Club Friendly : Leicester City vs Fiorentina</display-name>
   </channel>
-  <programme start="20250802000000 +0200" stop="20250802203000 +0200" channel="ClubFriendlyCagliarivsSainttienne">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne.</desc>
+  <programme start="20250803000000 +0200" stop="20250803160000 +0200" channel="ClubFriendlyLeicesterCityvsFiorentina">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Club Friendly : Leicester City vs Fiorentina.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250802203000 +0200" stop="20250802223000 +0200" channel="ClubFriendlyCagliarivsSainttienne">
+  <programme start="20250803160000 +0200" stop="20250803180000 +0200" channel="ClubFriendlyLeicesterCityvsFiorentina">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne</desc>
+    <desc lang="it">Club Friendly : Leicester City vs Fiorentina</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyNapolivsBrest">
+    <display-name>Club Friendly : Napoli vs Brest</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803190000 +0200" channel="ClubFriendlyNapolivsBrest">
+    <title lang="it">Inizia  alle 19:00.</title>
+    <desc lang="it">Club Friendly : Napoli vs Brest.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803190000 +0200" stop="20250803210000 +0200" channel="ClubFriendlyNapolivsBrest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly : Napoli vs Brest</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="PremierLeagueSummerSeriesAFCBournemouthvsWestHamUnited">
+    <display-name>Premier League Summer Series : AFC Bournemouth vs West Ham United</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803200000 +0200" channel="PremierLeagueSummerSeriesAFCBournemouthvsWestHamUnited">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">Premier League Summer Series : AFC Bournemouth vs West Ham United.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803200000 +0200" stop="20250803220000 +0200" channel="PremierLeagueSummerSeriesAFCBournemouthvsWestHamUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Premier League Summer Series : AFC Bournemouth vs West Ham United</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+    <display-name>Club Friendly Premier League Summer Series : Manchester United vs Everton</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803230000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+    <title lang="it">Inizia  alle 23:00.</title>
+    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803230000 +0200" stop="20250804010000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250803000000 +0200" stop="20250803230000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+    <title lang="it">Inizia  alle 23:00.</title>
+    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803230000 +0200" stop="20250804010000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Formula3LenovoHungarianGrandPrixRace">
+    <display-name>Formula 3 : Lenovo Hungarian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803084500 +0200" channel="Formula3LenovoHungarianGrandPrixRace">
+    <title lang="it">Inizia  alle 08:45.</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803084500 +0200" stop="20250803104500 +0200" channel="Formula3LenovoHungarianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2LenovoHungarianGrandPrixRace">
+    <display-name>Formula 2 : Lenovo Hungarian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803101500 +0200" channel="Formula2LenovoHungarianGrandPrixRace">
+    <title lang="it">Inizia  alle 10:15.</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803101500 +0200" stop="20250803121500 +0200" channel="Formula2LenovoHungarianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
+    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803140000 +0200" channel="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803140000 +0200" stop="20250803160000 +0200" channel="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoHungarianGrandPrixRace">
+    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803150000 +0200" channel="Formula1LenovoHungarianGrandPrixRace">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803150000 +0200" stop="20250803170000 +0200" channel="Formula1LenovoHungarianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipFlandersMX2Race2">
+    <display-name>World Championship Flanders | MX2 | Race 2</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803160000 +0200" channel="WorldChampionshipFlandersMX2Race2">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">World Championship Flanders | MX2 | Race 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803160000 +0200" stop="20250803180000 +0200" channel="WorldChampionshipFlandersMX2Race2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Flanders | MX2 | Race 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="ShanghaiMastersRound2Day7">
+    <display-name>Shanghai Masters Round 2 | Day 7</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803080000 +0200" channel="ShanghaiMastersRound2Day7">
+    <title lang="it">Inizia  alle 08:00.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803080000 +0200" stop="20250803100000 +0200" channel="ShanghaiMastersRound2Day7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 7</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250803100000 +0200" stop="20250803133000 +0200" channel="ShanghaiMastersRound2Day7">
+    <title lang="it">Inizia  alle 13:30.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803133000 +0200" stop="20250803153000 +0200" channel="ShanghaiMastersRound2Day7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 7</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
+    <display-name>Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803150000 +0200" channel="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803150000 +0200" stop="20250803170000 +0200" channel="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
+    <display-name>Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803223600 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
+    <title lang="it">Inizia  alle 22:36.</title>
+    <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803223600 +0200" stop="20250804003600 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="WorldAquaticsChampionships2025">
+    <display-name>World Aquatics Championships 2025</display-name>
+  </channel>
+  <programme start="20250803000000 +0200" stop="20250803111500 +0200" channel="WorldAquaticsChampionships2025">
+    <title lang="it">Inizia  alle 11:15.</title>
+    <desc lang="it">World Aquatics Championships 2025.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250803111500 +0200" stop="20250803131500 +0200" channel="WorldAquaticsChampionships2025">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Aquatics Championships 2025</desc>
+    <category lang="it">Water Sports</category>
   </programme>
 </tv>
