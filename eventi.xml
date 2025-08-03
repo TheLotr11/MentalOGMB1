@@ -62,19 +62,6 @@
     <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
-    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803140000 +0200" channel="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803140000 +0200" stop="20250803160000 +0200" channel="Formula1LenovoHungarianGrandPrixGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1LenovoHungarianGrandPrixRace">
     <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Race</display-name>
   </channel>
@@ -100,19 +87,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Flanders | MX2 | Race 2</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="ShanghaiMastersRound2Day7">
-    <display-name>Shanghai Masters Round 2 | Day 7</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803133000 +0200" channel="ShanghaiMastersRound2Day7">
-    <title lang="it">Inizia  alle 13:30.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 7.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803133000 +0200" stop="20250803153000 +0200" channel="ShanghaiMastersRound2Day7">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 7</desc>
-    <category lang="it">Snooker</category>
   </programme>
   <channel id="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
     <display-name>Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km</display-name>
