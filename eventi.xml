@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
-    <display-name>Club Friendly Premier League Summer Series : Manchester United vs Everton</display-name>
+  <channel id="TourofPolandStage1MainWrocawLegnica1997km">
+    <display-name>Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km)</display-name>
   </channel>
-  <programme start="20250803000000 +0200" stop="20250803230000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
-    <title lang="it">Inizia  alle 23:00.</title>
-    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton.</desc>
+  <programme start="20250804000000 +0200" stop="20250804114500 +0200" channel="TourofPolandStage1MainWrocawLegnica1997km">
+    <title lang="it">Inizia  alle 11:45.</title>
+    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250803230000 +0200" stop="20250804010000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
+  <programme start="20250804114500 +0200" stop="20250804134500 +0200" channel="TourofPolandStage1MainWrocawLegnica1997km">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250803000000 +0200" stop="20250803230000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
-    <title lang="it">Inizia  alle 23:00.</title>
-    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803230000 +0200" stop="20250804010000 +0200" channel="ClubFriendlyPremierLeagueSummerSeriesManchesterUnitedvsEverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
-    <display-name>Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803222200 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
-    <title lang="it">Inizia  alle 22:22.</title>
-    <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803222200 +0200" stop="20250804002200 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</desc>
-    <category lang="it">Volleyball</category>
+    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km)</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
