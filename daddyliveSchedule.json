@@ -1,5 +1,47 @@
 {
     "Sunday 03rd August 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:55",
+                "event": "2025 Enduro 200 at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Dead & Compnay 60 Years Of The Grateful Dead PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Late Models at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:30",
@@ -3889,6 +3931,14 @@
                     {
                         "channel_name": "WWE PPV",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "162"
                     }
                 ]
             }
@@ -4981,7 +5031,7 @@
         ],
         "Volleyball</span>": [
             {
-                "time": "08:38",
+                "time": "20:22",
                 "event": "Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia",
                 "channels": [
                     {
@@ -5007,7 +5057,7 @@
                 ]
             },
             {
-                "time": "08:38",
+                "time": "20:22",
                 "event": "Men's Volleyball: Nations League match for Final : Poland vs Italy",
                 "channels": [
                     {
