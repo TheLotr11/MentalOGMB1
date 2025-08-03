@@ -166,12 +166,12 @@
   <channel id="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
     <display-name>Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</display-name>
   </channel>
-  <programme start="20250803000000 +0200" stop="20250803223600 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
-    <title lang="it">Inizia  alle 22:36.</title>
+  <programme start="20250803000000 +0200" stop="20250803032200 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
+    <title lang="it">Inizia  alle 03:22.</title>
     <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250803223600 +0200" stop="20250804003600 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
+  <programme start="20250803032200 +0200" stop="20250803052200 +0200" channel="MensVolleyballNationsLeaguematchfor3rdplaceBrazilvsSlovenia">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</desc>
     <category lang="it">Volleyball</category>
