@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyLeicesterCityvsFiorentina">
-    <display-name>Club Friendly : Leicester City vs Fiorentina</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803160000 +0200" channel="ClubFriendlyLeicesterCityvsFiorentina">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">Club Friendly : Leicester City vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803160000 +0200" stop="20250803180000 +0200" channel="ClubFriendlyLeicesterCityvsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Leicester City vs Fiorentina</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ClubFriendlyNapolivsBrest">
     <display-name>Club Friendly : Napoli vs Brest</display-name>
   </channel>
@@ -61,44 +48,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <channel id="Formula1LenovoHungarianGrandPrixRace">
-    <display-name>Formula 1 : Lenovo Hungarian Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803150000 +0200" channel="Formula1LenovoHungarianGrandPrixRace">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803150000 +0200" stop="20250803170000 +0200" channel="Formula1LenovoHungarianGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipFlandersMX2Race2">
-    <display-name>World Championship Flanders | MX2 | Race 2</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803160000 +0200" channel="WorldChampionshipFlandersMX2Race2">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">World Championship Flanders | MX2 | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803160000 +0200" stop="20250803180000 +0200" channel="WorldChampionshipFlandersMX2Race2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Flanders | MX2 | Race 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
-    <display-name>Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km</display-name>
-  </channel>
-  <programme start="20250803000000 +0200" stop="20250803150000 +0200" channel="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250803150000 +0200" stop="20250803170000 +0200" channel="WomensTourdeFranceStage9124PrazsurArlyChtelHilly124km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
