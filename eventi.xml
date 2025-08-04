@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="TourofPolandStage1MainWrocawLegnica1997km">
-    <display-name>Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km)</display-name>
-  </channel>
-  <programme start="20250804000000 +0200" stop="20250804114500 +0200" channel="TourofPolandStage1MainWrocawLegnica1997km">
-    <title lang="it">Inizia  alle 11:45.</title>
-    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250804114500 +0200" stop="20250804134500 +0200" channel="TourofPolandStage1MainWrocawLegnica1997km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
