@@ -127,17 +127,4 @@
     <desc lang="it">EBSL Superfinal : Italy vs Belarus</desc>
     <category lang="it">Beach Soccer</category>
   </programme>
-  <channel id="LaVueltaaEspanaStage19Flat159km1500m">
-    <display-name>La Vuelta a Espana: Stage 19 Flat | 159 km | 1500 m</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912150000 +0200" channel="LaVueltaaEspanaStage19Flat159km1500m">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">La Vuelta a Espana: Stage 19 Flat | 159 km | 1500 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912150000 +0200" stop="20250912170000 +0200" channel="LaVueltaaEspanaStage19Flat159km1500m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a Espana: Stage 19 Flat | 159 km | 1500 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
