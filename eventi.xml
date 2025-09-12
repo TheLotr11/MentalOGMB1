@@ -114,45 +114,6 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GPSanMarinoPractice">
-    <display-name>Moto3 : GP San Marino Practice</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912131000 +0200" channel="Moto3GPSanMarinoPractice">
-    <title lang="it">Inizia  alle 13:10.</title>
-    <desc lang="it">Moto3 : GP San Marino Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912131000 +0200" stop="20250912151000 +0200" channel="Moto3GPSanMarinoPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : GP San Marino Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGPSanMarinoPractice1">
-    <display-name>MotoGP : GP San Marino Practice 1</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912131500 +0200" channel="MotoGPGPSanMarinoPractice1">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : GP San Marino Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912131500 +0200" stop="20250912151500 +0200" channel="MotoGPGPSanMarinoPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : GP San Marino Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GPSanMarinoPractice">
-    <display-name>Moto2 : GP San Marino Practice</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912135500 +0200" channel="Moto2GPSanMarinoPractice">
-    <title lang="it">Inizia  alle 13:55.</title>
-    <desc lang="it">Moto2 : GP San Marino Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912135500 +0200" stop="20250912155500 +0200" channel="Moto2GPSanMarinoPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : GP San Marino Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="EBSLSuperfinalItalyvsBelarus">
     <display-name>EBSL Superfinal : Italy vs Belarus</display-name>
   </channel>
