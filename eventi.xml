@@ -114,45 +114,6 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GPSanMarinoFreePractice">
-    <display-name>Moto3 : GP San Marino Free Practice</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912085500 +0200" channel="Moto3GPSanMarinoFreePractice">
-    <title lang="it">Inizia  alle 08:55.</title>
-    <desc lang="it">Moto3 : GP San Marino Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912085500 +0200" stop="20250912105500 +0200" channel="Moto3GPSanMarinoFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : GP San Marino Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGPSanMarinoFreePractice">
-    <display-name>MotoGP : GP San Marino Free Practice</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912090000 +0200" channel="MotoGPGPSanMarinoFreePractice">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">MotoGP : GP San Marino Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912090000 +0200" stop="20250912110000 +0200" channel="MotoGPGPSanMarinoFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : GP San Marino Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GPSanMarinoFreePractice">
-    <display-name>Moto2 : GP San Marino Free Practice</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912094000 +0200" channel="Moto2GPSanMarinoFreePractice">
-    <title lang="it">Inizia  alle 09:40.</title>
-    <desc lang="it">Moto2 : GP San Marino Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912094000 +0200" stop="20250912114000 +0200" channel="Moto2GPSanMarinoFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : GP San Marino Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GPSanMarinoPractice">
     <display-name>Moto3 : GP San Marino Practice</display-name>
   </channel>
