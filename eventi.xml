@@ -101,30 +101,4 @@
     <desc lang="it">Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <display-name>Guadalajara-WTA & Sao Paulo-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912180000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912180000 +0200" stop="20250912200000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="EBSLSuperfinalItalyvsBelarus">
-    <display-name>EBSL Superfinal : Italy vs Belarus</display-name>
-  </channel>
-  <programme start="20250912000000 +0200" stop="20250912180000 +0200" channel="EBSLSuperfinalItalyvsBelarus">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">EBSL Superfinal : Italy vs Belarus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250912180000 +0200" stop="20250912200000 +0200" channel="EBSLSuperfinalItalyvsBelarus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EBSL Superfinal : Italy vs Belarus</desc>
-    <category lang="it">Beach Soccer</category>
-  </programme>
 </tv>
