@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueArsenalvsNottinghamForest">
-    <display-name>England - Premier League : Arsenal vs Nottingham Forest</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913133000 +0200" channel="EnglandPremierLeagueArsenalvsNottinghamForest">
-    <title lang="it">Inizia  alle 13:30.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Nottingham Forest.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913133000 +0200" stop="20250913153000 +0200" channel="EnglandPremierLeagueArsenalvsNottinghamForest">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Nottingham Forest</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieACagliarivsParma">
     <display-name>Italy - Serie A : Cagliari vs Parma</display-name>
   </channel>
@@ -371,32 +358,6 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GPSanMarinoQualifying">
-    <display-name>Moto3 : GP San Marino Qualifying</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913125000 +0200" channel="Moto3GPSanMarinoQualifying">
-    <title lang="it">Inizia  alle 12:50.</title>
-    <desc lang="it">Moto3 : GP San Marino Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913125000 +0200" stop="20250913145000 +0200" channel="Moto3GPSanMarinoQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : GP San Marino Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GPSanMarinoQualifying">
-    <display-name>Moto2 : GP San Marino Qualifying</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913134000 +0200" channel="Moto2GPSanMarinoQualifying">
-    <title lang="it">Inizia  alle 13:40.</title>
-    <desc lang="it">Moto2 : GP San Marino Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913134000 +0200" stop="20250913154000 +0200" channel="Moto2GPSanMarinoQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : GP San Marino Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGPSanMarinoSprintRace">
     <display-name>MotoGP : GP San Marino Sprint Race</display-name>
   </channel>
@@ -417,18 +378,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UFC Fight Night Main Card : Diego Lopes vs Jean Silva</desc>
     <category lang="it">MMA</category>
-  </programme>
-  <channel id="VueltaaEspanaStage20Mountain156km4220m">
-    <display-name>Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913124500 +0200" channel="VueltaaEspanaStage20Mountain156km4220m">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913124500 +0200" stop="20250913144500 +0200" channel="VueltaaEspanaStage20Mountain156km4220m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
