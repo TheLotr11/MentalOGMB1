@@ -483,19 +483,6 @@
     <desc lang="it">Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="RugbyChampionshipAustraliavsArgentina">
-    <display-name>Rugby Championship : Australia vs Argentina</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913060000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Inizia  alle 06:00.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913060000 +0200" stop="20250913080000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="RugbyChampionshipNewZealandvsSouthAfrica">
     <display-name>Rugby Championship : New Zealand vs South Africa</display-name>
   </channel>
