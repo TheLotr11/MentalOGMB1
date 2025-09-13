@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueWestHamUnitedvsTottenhamHotspur">
-    <display-name>England - Premier League : West Ham United vs Tottenham Hotspur</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913183000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsTottenhamHotspur">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Tottenham Hotspur.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913183000 +0200" stop="20250913203000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsTottenhamHotspur">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Tottenham Hotspur</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="BundesligaBayernMnchenvsHamburgerSV">
-    <display-name>Bundesliga : Bayern München vs Hamburger SV</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913183000 +0200" channel="BundesligaBayernMnchenvsHamburgerSV">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Bundesliga : Bayern München vs Hamburger SV.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913183000 +0200" stop="20250913203000 +0200" channel="BundesligaBayernMnchenvsHamburgerSV">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bundesliga : Bayern München vs Hamburger SV</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieBSampdoriavsCesena">
-    <display-name>Italy - Serie B : Sampdoria vs Cesena</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913193000 +0200" channel="ItalySerieBSampdoriavsCesena">
-    <title lang="it">Inizia  alle 19:30.</title>
-    <desc lang="it">Italy - Serie B : Sampdoria vs Cesena.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913193000 +0200" stop="20250913213000 +0200" channel="ItalySerieBSampdoriavsCesena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie B : Sampdoria vs Cesena</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAFiorentinavsNapoli">
     <display-name>Italy - Serie A : Fiorentina vs Napoli</display-name>
   </channel>
