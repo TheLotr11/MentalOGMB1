@@ -1,106 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieBCatanzarovsCarrarese">
-    <display-name>Italy - Serie B : Catanzaro vs Carrarese</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913171500 +0200" channel="ItalySerieBCatanzarovsCarrarese">
-    <title lang="it">Inizia  alle 17:15.</title>
-    <desc lang="it">Italy - Serie B : Catanzaro vs Carrarese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913171500 +0200" stop="20250913191500 +0200" channel="ItalySerieBCatanzarovsCarrarese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie B : Catanzaro vs Carrarese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCForlvsGubbio">
-    <display-name>Italy - Serie C : Forlì vs Gubbio</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCForlvsGubbio">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Forlì vs Gubbio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCForlvsGubbio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Forlì vs Gubbio</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPontederavsRimini">
-    <display-name>Italy - Serie C : Pontedera vs Rimini</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCPontederavsRimini">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Pontedera vs Rimini.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCPontederavsRimini">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pontedera vs Rimini</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCampobassovsPineto">
-    <display-name>Italy - Serie C : Campobasso vs Pineto</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCCampobassovsPineto">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Campobasso vs Pineto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCCampobassovsPineto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Campobasso vs Pineto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSiracusavsBenevento">
-    <display-name>Italy - Serie C : Siracusa vs Benevento</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCSiracusavsBenevento">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Benevento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCSiracusavsBenevento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Benevento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCSiracusavsBenevento">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Benevento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCSiracusavsBenevento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Benevento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPicernovsVirtusCasarano">
-    <display-name>Italy - Serie C : Picerno vs Virtus Casarano</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913173000 +0200" channel="ItalySerieCPicernovsVirtusCasarano">
-    <title lang="it">Inizia  alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Virtus Casarano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913173000 +0200" stop="20250913193000 +0200" channel="ItalySerieCPicernovsVirtusCasarano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Virtus Casarano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAJuventusvsInternazionale">
-    <display-name>Italy - Serie A : Juventus vs Internazionale</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913180000 +0200" channel="ItalySerieAJuventusvsInternazionale">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Juventus vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913180000 +0200" stop="20250913200000 +0200" channel="ItalySerieAJuventusvsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Juventus vs Internazionale</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueWestHamUnitedvsTottenhamHotspur">
     <display-name>England - Premier League : West Ham United vs Tottenham Hotspur</display-name>
   </channel>
@@ -175,19 +74,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Brentford vs Chelsea</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <display-name>Guadalajara-WTA & Sao Paulo-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913180000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913180000 +0200" stop="20250913200000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
   </programme>
   <channel id="UFCFightNightMainCardDiegoLopesvsJeanSilva">
     <display-name>UFC Fight Night Main Card : Diego Lopes vs Jean Silva</display-name>
