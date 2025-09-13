@@ -384,32 +384,6 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GPSanMarinoPractice2">
-    <display-name>Moto3 : GP San Marino Practice 2</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913084000 +0200" channel="Moto3GPSanMarinoPractice2">
-    <title lang="it">Inizia  alle 08:40.</title>
-    <desc lang="it">Moto3 : GP San Marino Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913084000 +0200" stop="20250913104000 +0200" channel="Moto3GPSanMarinoPractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : GP San Marino Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GPSanMarinoPractice2">
-    <display-name>Moto2 : GP San Marino Practice 2</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913092500 +0200" channel="Moto2GPSanMarinoPractice2">
-    <title lang="it">Inizia  alle 09:25.</title>
-    <desc lang="it">Moto2 : GP San Marino Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913092500 +0200" stop="20250913112500 +0200" channel="Moto2GPSanMarinoPractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : GP San Marino Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGPSanMarinoPractice2">
     <display-name>MotoGP : GP San Marino Practice 2</display-name>
   </channel>
@@ -482,18 +456,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="RugbyChampionshipNewZealandvsSouthAfrica">
-    <display-name>Rugby Championship : New Zealand vs South Africa</display-name>
-  </channel>
-  <programme start="20250913000000 +0200" stop="20250913090500 +0200" channel="RugbyChampionshipNewZealandvsSouthAfrica">
-    <title lang="it">Inizia  alle 09:05.</title>
-    <desc lang="it">Rugby Championship : New Zealand vs South Africa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913090500 +0200" stop="20250913110500 +0200" channel="RugbyChampionshipNewZealandvsSouthAfrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rugby Championship : New Zealand vs South Africa</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
 </tv>
