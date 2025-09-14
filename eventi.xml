@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCJuventusIIvsArezzo">
-    <display-name>Italy - Serie C : Juventus II vs Arezzo</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914123000 +0200" channel="ItalySerieCJuventusIIvsArezzo">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Arezzo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914123000 +0200" stop="20250914143000 +0200" channel="ItalySerieCJuventusIIvsArezzo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Arezzo</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieARomavsTorino">
-    <display-name>Italy - Serie A : Roma vs Torino</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914123000 +0200" channel="ItalySerieARomavsTorino">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">Italy - Serie A : Roma vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914123000 +0200" stop="20250914143000 +0200" channel="ItalySerieARomavsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Roma vs Torino</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCTrentovsAlbinoLeffe">
     <display-name>Italy - Serie C : Trento vs AlbinoLeffe</display-name>
   </channel>
@@ -391,19 +365,6 @@
     <desc lang="it">WTA 500 Guadalajara: FINALE: (couples)</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto2GPSanMarinoRace">
-    <display-name>Moto2 : GP San Marino Race</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914120000 +0200" channel="Moto2GPSanMarinoRace">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">Moto2 : GP San Marino Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914120000 +0200" stop="20250914140000 +0200" channel="Moto2GPSanMarinoRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : GP San Marino Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGPSanMarinoRace">
     <display-name>MotoGP : GP San Marino Race</display-name>
   </channel>
@@ -416,19 +377,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MotoGP : GP San Marino Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipsTokyoDay2Session2">
-    <display-name>World Championships Tokyo | Day 2 | Session 2</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914113000 +0200" channel="WorldChampionshipsTokyoDay2Session2">
-    <title lang="it">Inizia  alle 11:30.</title>
-    <desc lang="it">World Championships Tokyo | Day 2 | Session 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914113000 +0200" stop="20250914133000 +0200" channel="WorldChampionshipsTokyoDay2Session2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Tokyo | Day 2 | Session 2</desc>
-    <category lang="it">Athletics</category>
   </programme>
   <channel id="WorldChampionshipsTokyoDay3Session1">
     <display-name>World Championships Tokyo | Day 3 | Session 1</display-name>
