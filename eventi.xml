@@ -391,58 +391,6 @@
     <desc lang="it">WTA 500 Guadalajara: FINALE: (couples)</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="WorldChampionshipChinaMX2Race2">
-    <display-name>World Championship China | MX2 | Race 2</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914090000 +0200" channel="WorldChampionshipChinaMX2Race2">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">World Championship China | MX2 | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914090000 +0200" stop="20250914110000 +0200" channel="WorldChampionshipChinaMX2Race2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship China | MX2 | Race 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGPSanMarinoWarmUp">
-    <display-name>MotoGP : GP San Marino Warm Up</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914093000 +0200" channel="MotoGPGPSanMarinoWarmUp">
-    <title lang="it">Inizia  alle 09:30.</title>
-    <desc lang="it">MotoGP : GP San Marino Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914093000 +0200" stop="20250914113000 +0200" channel="MotoGPGPSanMarinoWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : GP San Marino Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipChinaMXGPRace2">
-    <display-name>World Championship China | MXGP | Race 2</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914100000 +0200" channel="WorldChampionshipChinaMXGPRace2">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">World Championship China | MXGP | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914100000 +0200" stop="20250914120000 +0200" channel="WorldChampionshipChinaMXGPRace2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship China | MXGP | Race 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3GPSanMarinoRace">
-    <display-name>Moto3 : GP San Marino Race</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914100000 +0200" channel="Moto3GPSanMarinoRace">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">Moto3 : GP San Marino Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914100000 +0200" stop="20250914120000 +0200" channel="Moto3GPSanMarinoRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : GP San Marino Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2GPSanMarinoRace">
     <display-name>Moto2 : GP San Marino Race</display-name>
   </channel>
