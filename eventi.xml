@@ -365,19 +365,6 @@
     <desc lang="it">WTA 500 Guadalajara: FINALE: (couples)</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGPSanMarinoRace">
-    <display-name>MotoGP : GP San Marino Race</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914140000 +0200" channel="MotoGPGPSanMarinoRace">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">MotoGP : GP San Marino Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914140000 +0200" stop="20250914160000 +0200" channel="MotoGPGPSanMarinoRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : GP San Marino Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="WorldChampionshipsTokyoDay3Session1">
     <display-name>World Championships Tokyo | Day 3 | Session 1</display-name>
   </channel>
