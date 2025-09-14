@@ -391,19 +391,6 @@
     <desc lang="it">WTA 500 Guadalajara: FINALE: (couples)</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="WorldChampionshipChinaMX2Race1">
-    <display-name>World Championship China | MX2 | Race 1</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914060000 +0200" channel="WorldChampionshipChinaMX2Race1">
-    <title lang="it">Inizia  alle 06:00.</title>
-    <desc lang="it">World Championship China | MX2 | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914060000 +0200" stop="20250914080000 +0200" channel="WorldChampionshipChinaMX2Race1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship China | MX2 | Race 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="WorldChampionshipChinaMXGPRace1">
     <display-name>World Championship China | MXGP | Race 1</display-name>
   </channel>
