@@ -1,145 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCTrentovsAlbinoLeffe">
-    <display-name>Italy - Serie C : Trento vs AlbinoLeffe</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCTrentovsAlbinoLeffe">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Trento vs AlbinoLeffe.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCTrentovsAlbinoLeffe">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trento vs AlbinoLeffe</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCInterIIvsLecco">
-    <display-name>Italy - Serie C : Inter II vs Lecco</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCInterIIvsLecco">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCInterIIvsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Lecco</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCInterIIvsLecco">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCInterIIvsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Lecco</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCPerugiavsAscoli">
-    <display-name>Italy - Serie C : Perugia vs Ascoli</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCPerugiavsAscoli">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Ascoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCPerugiavsAscoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Ascoli</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCBravsSassariTorres">
-    <display-name>Italy - Serie C : Bra vs Sassari Torres</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCBravsSassariTorres">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Sassari Torres.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCBravsSassariTorres">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Sassari Torres</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCCosenzavsCatania">
-    <display-name>Italy - Serie C : Cosenza vs Catania</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCCosenzavsCatania">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Cosenza vs Catania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCCosenzavsCatania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cosenza vs Catania</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCAtalantaIIvsTeamAltamura">
-    <display-name>Italy - Serie C : Atalanta II vs Team Altamura</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieCAtalantaIIvsTeamAltamura">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieCAtalantaIIvsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Team Altamura</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueBurnleyvsLiverpool">
-    <display-name>England - Premier League : Burnley vs Liverpool</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="EnglandPremierLeagueBurnleyvsLiverpool">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">England - Premier League : Burnley vs Liverpool.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="EnglandPremierLeagueBurnleyvsLiverpool">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Burnley vs Liverpool</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAAtalantavsLecce">
-    <display-name>Italy - Serie A : Atalanta vs Lecce</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieAAtalantavsLecce">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Lecce.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieAAtalantavsLecce">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Lecce</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAPisavsUdinese">
-    <display-name>Italy - Serie A : Pisa vs Udinese</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieAPisavsUdinese">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieAPisavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Udinese</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieBVirtusEntellavsMantova">
-    <display-name>Italy - Serie B : Virtus Entella vs Mantova</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="ItalySerieBVirtusEntellavsMantova">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Italy - Serie B : Virtus Entella vs Mantova.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="ItalySerieBVirtusEntellavsMantova">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie B : Virtus Entella vs Mantova</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieBSdtirolvsPalermo">
     <display-name>Italy - Serie B : Südtirol vs Palermo</display-name>
   </channel>
@@ -414,19 +274,6 @@
     <desc lang="it">European Championship, for Final : Turkey vs Germany</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="GrandPrixCyclistedeMontrealMenMontreal2091km">
-    <display-name>Grand Prix Cycliste de Montreal Men | Montreal (209.1km)</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914153000 +0200" channel="GrandPrixCyclistedeMontrealMenMontreal2091km">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">Grand Prix Cycliste de Montreal Men | Montreal (209.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914153000 +0200" stop="20250914173000 +0200" channel="GrandPrixCyclistedeMontrealMenMontreal2091km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix Cycliste de Montreal Men | Montreal (209.1km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="VueltaaEspanaStage21101AlalpardoMadridFlat101km917m">
     <display-name>Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m</display-name>
   </channel>
@@ -440,32 +287,6 @@
     <desc lang="it">Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="GlobalChampionsTourRiesenbeckShowJumping">
-    <display-name>Global Champions Tour Riesenbeck | Show Jumping</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914150000 +0200" channel="GlobalChampionsTourRiesenbeckShowJumping">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Global Champions Tour Riesenbeck | Show Jumping.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914150000 +0200" stop="20250914170000 +0200" channel="GlobalChampionsTourRiesenbeckShowJumping">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Global Champions Tour Riesenbeck | Show Jumping</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="ISUCSLombardiaTrophy2025MenFreestylefromBergamo">
-    <display-name>ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo)</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914153000 +0200" channel="ISUCSLombardiaTrophy2025MenFreestylefromBergamo">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914153000 +0200" stop="20250914173000 +0200" channel="ISUCSLombardiaTrophy2025MenFreestylefromBergamo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ISU CS Lombardia Trophy 2025 - Men - Freestyle (from Bergamo)</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="ISUCSLombardiaTrophy2025FreeDancefromBergamo">
     <display-name>ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo)</display-name>
   </channel>
@@ -478,18 +299,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ISU CS Lombardia Trophy 2025 - Free Dance (from Bergamo)</desc>
     <category lang="it">Ice Skating</category>
-  </programme>
-  <channel id="FIVBWorldChampionshipItalyvsAlgeria">
-    <display-name>FIVB World Championship : Italy vs Algeria</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914153000 +0200" channel="FIVBWorldChampionshipItalyvsAlgeria">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">FIVB World Championship : Italy vs Algeria.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914153000 +0200" stop="20250914173000 +0200" channel="FIVBWorldChampionshipItalyvsAlgeria">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIVB World Championship : Italy vs Algeria</desc>
-    <category lang="it">Volleyball</category>
   </programme>
 </tv>
