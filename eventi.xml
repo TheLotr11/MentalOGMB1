@@ -85,17 +85,7 @@
   <channel id="WorldSnookerSnookerEnglishOpen">
     <display-name>World Snooker - Snooker English Open</display-name>
   </channel>
-  <programme start="20250915000000 +0200" stop="20250915140000 +0200" channel="WorldSnookerSnookerEnglishOpen">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">World Snooker - Snooker English Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915140000 +0200" stop="20250915160000 +0200" channel="WorldSnookerSnookerEnglishOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Snooker - Snooker English Open</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250915160000 +0200" stop="20250915200000 +0200" channel="WorldSnookerSnookerEnglishOpen">
+  <programme start="20250915000000 +0200" stop="20250915200000 +0200" channel="WorldSnookerSnookerEnglishOpen">
     <title lang="it">Inizia  alle 20:00.</title>
     <desc lang="it">World Snooker - Snooker English Open.</desc>
     <category lang="it">Annuncio</category>
