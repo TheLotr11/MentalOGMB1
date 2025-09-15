@@ -82,19 +82,6 @@
     <desc lang="it">Italy - Serie A : Como vs Genoa</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="SeoulWTAEarlyRounds">
-    <display-name>Seoul-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20250915000000 +0200" stop="20250915070000 +0200" channel="SeoulWTAEarlyRounds">
-    <title lang="it">Inizia  alle 07:00.</title>
-    <desc lang="it">Seoul-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915070000 +0200" stop="20250915090000 +0200" channel="SeoulWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Seoul-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="WorldSnookerSnookerEnglishOpen">
     <display-name>World Snooker - Snooker English Open</display-name>
   </channel>
