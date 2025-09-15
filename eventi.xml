@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAHellasVeronavsCremonese">
-    <display-name>Italy - Serie A : Hellas Verona vs Cremonese</display-name>
-  </channel>
-  <programme start="20250915000000 +0200" stop="20250915183000 +0200" channel="ItalySerieAHellasVeronavsCremonese">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Italy - Serie A : Hellas Verona vs Cremonese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915183000 +0200" stop="20250915203000 +0200" channel="ItalySerieAHellasVeronavsCremonese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Hellas Verona vs Cremonese</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCCittadellavsVicenza">
     <display-name>Italy - Serie C : Cittadella vs Vicenza</display-name>
   </channel>
