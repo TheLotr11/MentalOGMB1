@@ -105,19 +105,6 @@
     <desc lang="it">World Snooker - Snooker English Open</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="WorldChampionshipsTokyoDay3Session2">
-    <display-name>World Championships Tokyo | Day 3 | Session 2</display-name>
-  </channel>
-  <programme start="20250915000000 +0200" stop="20250915123000 +0200" channel="WorldChampionshipsTokyoDay3Session2">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">World Championships Tokyo | Day 3 | Session 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915123000 +0200" stop="20250915143000 +0200" channel="WorldChampionshipsTokyoDay3Session2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Tokyo | Day 3 | Session 2</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="WorldChampionshipsTokyoDay4Session1">
     <display-name>World Championships Tokyo | Day 4 | Session 1</display-name>
   </channel>
