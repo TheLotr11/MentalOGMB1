@@ -11,12 +11,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Futsal" group-title="Eventi Live",--- Futsal ---
-https://exemple.m3u8
-
 #EXTINF:-1 tvg-name="Rugby Unoin" group-title="Eventi Live",--- Rugby Unoin ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-name="Shooting" group-title="Eventi Live",--- Shooting ---
 https://exemple.m3u8
 
