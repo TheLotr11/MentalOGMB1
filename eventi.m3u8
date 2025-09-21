@@ -8,12 +8,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Sailing / Boating" group-title="Eventi Live",--- Sailing / Boating ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
-https://exemple.m3u8
-
 #EXTINF:-1 tvg-name="Ski Jumping" group-title="Eventi Live",--- Ski Jumping ---
 https://exemple.m3u8
 
