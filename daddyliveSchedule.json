@@ -2,7 +2,7 @@
     "Sunday 21st Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "01:28",
+                "time": "02:15",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -30,7 +30,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "01:28",
+                "time": "02:15",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -7134,7 +7134,7 @@
     "Monday 22nd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "01:28",
+                "time": "02:15",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -7162,7 +7162,7 @@
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "01:28",
+                "time": "02:15",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -8312,6 +8312,50 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            }
+        ],
+        "ATP - CHENGDU</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - CHENGDU : Nakashima B. vs Tabilo A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - CHENGDU : Musetti L. vs Shevchenko A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "ATP - HANGZHOU</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - HANGZHOU : Royer V. vs Moutet C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - HANGZHOU : Bublik A. vs Wu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             }
