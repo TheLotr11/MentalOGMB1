@@ -5560,6 +5560,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "DAZN PPV 2",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -5570,6 +5574,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "DAZN PPV Boxing",
+                        "channel_id": "5003"
                     }
                 ]
             },
