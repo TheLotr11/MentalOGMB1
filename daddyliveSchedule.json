@@ -1,5 +1,27 @@
 {
     "Thursday 16th Oct2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "2025 Dirt Track World Championship at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "KKM Giveback Classic at Port City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1920,6 +1942,18 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "NFL Pass",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "NFL Pass ES",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "NFL Pass NextGen",
+                        "channel_id": "5016"
+                    },
+                    {
                         "channel_name": "Sky Sports NFL UK",
                         "channel_id": "37"
                     },
@@ -2330,6 +2364,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "NBA Pass",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -2354,6 +2392,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "NBA Pass",
+                        "channel_id": "5010"
                     },
                     {
                         "channel_name": "ESPN2 USA",
@@ -2388,6 +2430,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "NBA Pass",
+                        "channel_id": "5012"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
@@ -2960,6 +3006,10 @@
                         "channel_id": "11"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5009"
+                    },
+                    {
                         "channel_name": "TSN4",
                         "channel_id": "114"
                     },
@@ -2980,6 +3030,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5006"
                     },
                     {
                         "channel_name": "TSN2",
@@ -3008,6 +3062,10 @@
                         "channel_id": "13"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5005"
+                    },
+                    {
                         "channel_name": "TSN5",
                         "channel_id": "115"
                     },
@@ -3028,6 +3086,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5007"
                     },
                     {
                         "channel_name": "Nova Sport 1 CZ",
@@ -3052,6 +3114,10 @@
                         "channel_id": "15"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5008"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia",
                         "channel_id": "777"
                     },
@@ -3074,6 +3140,10 @@
                         "channel_id": "16"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5004"
+                    },
+                    {
                         "channel_name": "Altitude USA",
                         "channel_id": "923"
                     },
@@ -3092,6 +3162,10 @@
                         "channel_id": "17"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5011"
+                    },
+                    {
                         "channel_name": "Sportsnet 360 CA",
                         "channel_id": "409"
                     },
@@ -3108,6 +3182,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5013"
                     },
                     {
                         "channel_name": "Sportsnet One",
@@ -3144,6 +3222,10 @@
                         "channel_id": "19"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5018"
+                    },
+                    {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
                     },
@@ -3170,6 +3252,10 @@
                         "channel_id": "20"
                     },
                     {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5017"
+                    },
+                    {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "23"
                     }
@@ -3182,6 +3268,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "NHL Pass",
+                        "channel_id": "5019"
                     },
                     {
                         "channel_name": "SportsNet Pittsburgh",
