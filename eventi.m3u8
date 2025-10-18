@@ -20,9 +20,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="UFC Fight Night" group-title="Eventi Live",--- UFC Fight Night ---
-https://exemple.m3u8
-
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://exemple.m3u8
 
